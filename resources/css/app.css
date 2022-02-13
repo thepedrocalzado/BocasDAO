@@ -9,3 +9,21 @@
 .bg-lightgreen {
     background-color: #1cd1b2;
 }
+
+@font-face {
+    font-family: bold;
+    src: url('/fonts/negrita.otf') format("opentype");
+}
+
+@font-face {
+    font-family: light;
+    src: url('/fonts/light.otf') format("opentype");
+}
+
+.bold {
+    font-family: bold;
+}
+
+.light {
+    font-family: light;
+}
