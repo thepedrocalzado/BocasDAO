@@ -10,12 +10,22 @@
         <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 
 
-        <title>Laravel</title>
+        <title>BocasDAO</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
 
     </head>
+    <style>
+        .bg-darkblue {
+            background-color: #1a344f;
+        }
+
+        .bg-lightgreen {
+            background-color: #1cd1b2;
+        }
+
+    </style>
     <body class="bg-lightgreen">
         @extends('components/navbar')
     </body>
