@@ -19,7 +19,5 @@
 
     <body class="bg-darkblue">
         @extends('components/navbar')
-        @extends('components/publi')
-
     </body>
 </html>
