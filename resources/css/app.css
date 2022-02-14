@@ -11,19 +11,19 @@
 }
 
 @font-face {
-    font-family: bold;
-    src: url('/public/fonts/negrita.otf') format("opentype");
+    font-family: font-bold;
+    src: url('/fonts/negrita.otf') format("opentype");
 }
 
 @font-face {
-    font-family: light;
-    src: url('/public/fonts/light.otf') format("opentype");
+    font-family: font-light;
+    src: url('/fonts/light.otf') format("opentype");
 }
 
-.bold {
-    font-family: bold;
+.font-bold {
+    font-family: font-bold;
 }
 
-.light {
-    font-family: light;
+.font-light {
+    font-family: font-light;
 }
