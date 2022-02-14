@@ -32232,13 +32232,13 @@ video {
 @font-face {
   font-family: bold;
 
-  src: url('/fonts/negrita.otf') format("opentype");
+  src: url('/public/fonts/negrita.otf') format("opentype");
 }
 
 @font-face {
   font-family: light;
 
-  src: url('/fonts/light.otf') format("opentype");
+  src: url('/public/fonts/light.otf') format("opentype");
 }
 
 .bold {
