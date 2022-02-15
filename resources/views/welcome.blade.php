@@ -18,9 +18,8 @@
     </head>
 
     <body class="bg-darkblue">
-            @extends('components/navbar')
-
+        @extends('components/navbar')
         @extends('components/topsection')
-
+        @extends('components/footer')
     </body>
 </html>
