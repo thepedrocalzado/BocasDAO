@@ -19,12 +19,12 @@
     <style type="text/css">
         @font-face {
             font-family: font-bold;
-            src: url('{{ public_path('/fonts/negrita.otf') }}');
+            src: url('{{ asset('/fonts/negrita.otf') }}');
         }
 
         @font-face {
             font-family:  font-light;
-            src: url('{{ public_path('/fonts/light.otf') }}');
+            src: url('{{ asset('/fonts/light.otf') }}');
         }
     </style>
 
