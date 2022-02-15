@@ -11,7 +11,7 @@
 }
 
 .text-dao {
-    color: #1cd1b2;
+    color: #1cd1b2 !important;
 }
 
 @font-face {
