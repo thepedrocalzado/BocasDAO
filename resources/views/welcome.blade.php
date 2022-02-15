@@ -16,6 +16,17 @@
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
 
     </head>
+    <style type="text/css">
+        @font-face {
+            font-family: font-bold;
+            src: url('{{ public_path('/fonts/negrita.otf') }}');
+        }
+
+        @font-face {
+            font-family:  font-light;
+            src: url('{{ public_path('/fonts/light.otf') }}');
+        }
+    </style>
 
     <body class="bg-darkblue">
         @extends('components/navbar')
