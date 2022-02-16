@@ -14,6 +14,10 @@
     color: #1cd1b2 !important;
 }
 
+.text-blackdao {
+    color: #1a344f !important;
+}
+
 @font-face {
     font-family: font-bold;
     src: url('/fonts/negrita.otf') format("opentype");

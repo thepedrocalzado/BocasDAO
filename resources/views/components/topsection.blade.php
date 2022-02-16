@@ -1,19 +1,20 @@
 
-<div>
+<div class=" ">
     <div class="bg-lightgreen md:overflow-hidden pt-10">
       <div class="px-4 py-20 md:py-4">
         <div class="md:max-w-6xl md:mx-auto">
           <div class="md:flex md:flex-wrap">
             <div class="md:w-1/2 text-center md:text-left md:pt-20">
               <h1 class="font-bold text-white text-2xl md:text-5xl leading-tight mb-4">
-                Simple DAO platform for any service
+                  BocasDAO proudly presents
               </h1>
 
-              <p class="text-white md:text-xl md:pr-48">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id
-                vitae corrupti asperiores veritatis dolorum, commodi aperiam
-                enim.
+              <p class="text-white md:text-xl md:pr-48 font-light">
+                  The “El Refugio Beach Bungalows, Bocas del Toro” - a “go to place” for the crypto community, your over water home office, your new permanent fiscal destination, the DAO to be part of.
               </p>
+                <p class="text-white md:text-xl md:pr-48 text-right font-ligh italic">
+                    – Be a Crypto Refugee
+                </p>
 
               <a
                 href="#"
@@ -478,3 +479,4 @@
     </div>
 </div>
     </div>
+</div>

@@ -29,8 +29,15 @@
     </style>
 
     <body class="bg-darkblue">
-        @extends('components/navbar')
+    @extends('components/footer')
+    @extends('components/passport')
+
+    @extends('components/content')
+
+    @extends('components/toprefugio')
         @extends('components/topsection')
-        @extends('components/footer')
+        @extends('components/navbar')
+
+
     </body>
 </html>

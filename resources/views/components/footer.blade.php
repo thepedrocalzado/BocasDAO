@@ -1,4 +1,4 @@
-<footer class="p-4 bg-gray-800 sm:p-6 dark:bg-gray-800 bottom-0 absolute w-full">
+<footer class="p-4 bg-darkblue sm:p-6 w-full">
     <div class="md:flex md:justify-between">
         <div class="mb-6 md:mb-0">
             <a href="#" class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">
