@@ -6,5 +6,14 @@
         <p class="text-white leading-tight font-bold xs:text-lg lg:text-2xl mt-6">
             {{ __('Passportinfo') }}
         </p>
+
+        @extends('components/passports/refugio')
+
+        @extends('components/passports/refugio')
+
+        @extends('components/passports/refugio')
+
+        @extends('components/passports/refugio')
+
     </div>
 </div>

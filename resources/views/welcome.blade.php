@@ -41,7 +41,7 @@
         }
 
         @font-face {
-            font-family:  font-light;
+            font-family:  font-lightdao;
             src: url('{{ asset('/fonts/light.otf') }}');
         }
     </style>

@@ -25,12 +25,12 @@
 }
 
 @font-face {
-    font-family: font-bold;
+    font-family: font-boldao;
     src: url('/fonts/negrita.otf') format("opentype");
 }
 
 @font-face {
-    font-family: font-light;
+    font-family: font-lightdao;
     src: url('/fonts/light.otf') format("opentype");
 }
 
