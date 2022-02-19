@@ -7,10 +7,10 @@
 <div class=" w-screen text-gray-700 bg-darkblue dark-mode:text-white dark-mode:bg-white fixed top-0 animated z-40 shadow-xl	">
     <div x-data="{ open: false }" class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div class="p-4 flex flex-row items-center justify-between">
-            <a href="#" class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">
+            <a href="{{ route('welcome') }}" class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">
                 <img src="{{asset('/img/logo.svg')}}">
             </a>
-            <a class="visible md:invisible px-4 py-2 mt-2 ml-5 text-xs font-semibold text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase bold" href="#">Get your Passport</a>
+            <a class="visible md:invisible px-4 py-2 mt-2 ml-5 text-xs font-semibold text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase bold" href="#">{{ __('Passport') }}</a>
             <div class=" xs:invisible relative inline-block text-left ">
                 <div class="dropdown inline-block visible lg:invisible">
                     <button class="bg-gray-300 text-gray-700 font-semibold px-3 mt-2 rounded inline-flex items-center">
@@ -21,17 +21,17 @@
                     </button>
                     <ul class="dropdown-menu absolute hidden text-gray-700 pt-1">
                         <li class="">
-                            <a class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="#">
+                            <a class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="/lang/en">
                                 <img src="{{asset("/img/flags/en.png")}}">
                             </a>
                         </li>
                         <li class="">
-                            <a class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="#">
+                            <a class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="/lang/de">
                                 <img src="{{asset("/img/flags/de.png")}}">
                             </a>
                         </li>
                         <li class="">
-                            <a class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="#">
+                            <a class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="/lang/es">
                                 <img src="{{asset("/img/flags/es.png")}}">
                             </a>
                         </li>
@@ -47,12 +47,12 @@
             </button>
         </div>
         <nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow pb-4 md:pb-0 hidden md:flex md:justify-end md:flex-row">
-            <a class="px-4 py-2 mt-2 text-sm font-semibold text-white bg-transparent  rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light" href="#">Passports</a>
-            <a class="px-4 py-2 mt-2 text-sm font-semibold text-white bg-transparent  rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light" href="#">Road Map</a>
-            <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg text-white dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light" href="#">Join the community</a>
-            <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg text-white dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light " href="#">Faqs</a>
-            <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg text-white dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light " href="#">Contact</a>
-            <a class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-semibold text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Get your Passport</a>
+            <a class="px-4 py-2 mt-2 text-sm font-semibold text-white bg-transparent  rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light" href="#passport" >{{ __('Passport') }}</a>
+            <a class="px-4 py-2 mt-2 text-sm font-semibold text-white bg-transparent  rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light" href="#">{{ __('Road Map') }}</a>
+            <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg text-white dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light" href="#">{{ __('Join the community') }}</a>
+            <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg text-white dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light" href="#faqs">{{ __('Faqs') }}</a>
+            <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg text-white dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-light" href="#">{{ __('Contact') }}</a>
+            <a class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-semibold text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">{{ __('Get your passport') }}</a>
                 <div class=" relative inline-block text-left">
 
                         <div class="dropdown inline-block hidden md:block">
@@ -64,17 +64,17 @@
                             </button>
                             <ul class="dropdown-menu absolute hidden text-gray-700 pt-1">
                                 <li class="">
-                                    <a class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="#">
+                                    <a class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="/lang/en">
                                         <img src="{{asset("/img/flags/en.png")}}">
                                     </a>
                                 </li>
                                 <li class="">
-                                    <a class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="#">
+                                    <a class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="/lang/de">
                                         <img src="{{asset("/img/flags/de.png")}}">
                                     </a>
                                 </li>
                                 <li class="">
-                                    <a class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="#">
+                                    <a class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="/lang/es">
                                         <img src="{{asset("/img/flags/es.png")}}">
                                     </a>
                                 </li>

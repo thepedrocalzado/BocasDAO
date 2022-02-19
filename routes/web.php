@@ -12,7 +12,15 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::get('/lang/{lang}', function ($lang) {
+    Session::put('locale', $lang);
+    return redirect()->back();
+});
 
 Route::get('/dev', function () {
     return view('welcome');
-});
+})->name("welcome");
+
+Route::get('/terms-and-conditions', function () {
+    return view('terms');
+})->name("terms");

@@ -20,6 +20,10 @@
     color: #1a344f !important;
 }
 
+.bg-faq {
+    background-color: #1e3c5d !important;
+}
+
 @font-face {
     font-family: font-bold;
     src: url('/fonts/negrita.otf') format("opentype");
@@ -37,3 +41,7 @@
 .font-light {
     font-family: font-light;
 }
+
+
+
+

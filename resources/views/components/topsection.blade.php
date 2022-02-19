@@ -6,20 +6,23 @@
           <div class="md:flex md:flex-wrap">
             <div class="md:w-1/2 text-center md:text-left md:pt-20">
               <h1 class="font-bold text-white text-2xl md:text-5xl leading-tight mb-4">
-                  BocasDAO proudly presents
+                  {{ __('Present') }}
               </h1>
 
               <p class="text-white md:text-xl md:pr-48 font-light">
-                  The “El Refugio Beach Bungalows, Bocas del Toro” - a “go to place” for the crypto community, your over water home office, your new permanent fiscal destination, the DAO to be part of.
+                  {{ __('Presentinfo') }}
               </p>
                 <p class="text-white md:text-xl md:pr-48 text-right font-ligh italic">
-                    – Be a Crypto Refugee
+                    {{ __('Refugee') }}
                 </p>
 
               <a
                 href="#"
                 class="mt-6 mb-12 md:mb-0 md:mt-10 inline-block py-3 px-8 text-white bg-darkblue hover:bg-lightgreen rounded-lg font-light shadow uppercase"
-                >Show Passport</a
+                >
+                  {{ __('Showpassport') }}
+
+              </a
               >
             </div>
               <!--
