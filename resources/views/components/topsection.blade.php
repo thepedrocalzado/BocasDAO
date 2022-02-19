@@ -18,7 +18,7 @@
 
               <a
                 href="#"
-                class="mt-6 mb-12 md:mb-0 md:mt-10 inline-block py-3 px-8 text-white bg-darkblue hover:bg-pink-600 rounded-lg shadow"
+                class="mt-6 mb-12 md:mb-0 md:mt-10 inline-block py-3 px-8 text-white bg-darkblue hover:bg-lightgreen rounded-lg font-light shadow uppercase"
                 >Show Passport</a
               >
             </div>

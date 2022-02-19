@@ -16,3 +16,6 @@ mix.js("resources/js/app.js", "public/js")
         require("tailwindcss"),
     ]);
 mix.copyDirectory('resources/assets/fonts', 'public/fonts');
+mix
+    .js('resources/js/app.js', 'public/js')
+    .sass('resources/sass/app.scss', 'public/css');
