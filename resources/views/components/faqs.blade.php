@@ -1,16 +1,20 @@
 
-<div class="flex flex-wrap md:max-w-6xl md:mx-auto sm:mb-2 -mx-2" id="faqs">
+<script>
+
+</script>
+
+<div class=" faqs flex flex-wrap md:max-w-6xl md:mx-auto sm:mb-2 -mx-2" id="faqs">
     <div class="w-full px-4 py-2">
         <p class="text-white leading-tight font-bold text-5xl text-center mb-6 mt-9">
             Frequently Asked Questions
         </p>
 
-            <details class="flex mb-4 max-w-3xl mx-auto">
-                <summary class="font-semibold cursor-pointer bg-lightgreen rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
+            <details class="flex mb-4 max-w-3xl mx-auto details">
+                <summary class="summary font-semibold cursor-pointer bg-lightgreen rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
                     I am new to Crypto…how can I get involved?
                 </summary>
 
-                <div class=" p-4 text-white font-bold leading-tight bg-gray-700 mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
+                <div class="info p-4 text-white font-bold leading-tight bg-gray-700 mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
                     If you are all new to Crypto, the first step is to make yourself with some ETH (Etherium, the second largest Crypto currency). The easiest is to exchange USD, EUR, or any FIAT currency via credit card or bank transfer at one of the major exchanges like Coinbase, Binance, Kraken, etc.
                     Once you receive your ETH in your exchange account, we recommend to transfer the ETH to your own wallet.
                     Since for further transactions a MetaMask wallet comes very handy, this would be our wallet of choice.
@@ -18,12 +22,12 @@
                 </div>
             </details>
 
-        <details class="flex mb-4 max-w-3xl mx-auto">
-            <summary class="font-semibold cursor-pointer bg-lightgreen rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
+        <details class="flex mb-4 max-w-3xl mx-auto details">
+            <summary class=" summary font-semibold cursor-pointer bg-lightgreen rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
                 What are NFTs?
             </summary>
 
-            <div class=" p-4 text-white font-bold leading-tight bg-gray-700 mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
+            <div class=" info p-4 text-white font-bold leading-tight bg-gray-700 mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
                 NFT stands for “Non-fungible token” and is a unique, one-of-a-kind digital item that users can buy, own, and trade. Use cases are digital art, digital stamps, digital land, etc. Our NFTs are like a rare piece of art that can also act as a “timeshare membership” card which gets you access to the resort and community exclusives.
             </div>
         </details>

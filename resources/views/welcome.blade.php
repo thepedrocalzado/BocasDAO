@@ -36,13 +36,13 @@
     </script>
     <style type="text/css">
         @font-face {
-            font-family: font-bold;
-            src: url('{{ asset('/fonts/negrita.otf') }}');
+            font-family: font-boldao;
+            src: url('{{ asset('/fonts/negrita.otf')  }}');
         }
 
         @font-face {
             font-family:  font-lightdao;
-            src: url('{{ asset('/fonts/light.otf') }}');
+            src: url('{{ asset('/fonts/medium.ttf') }}');
         }
     </style>
 

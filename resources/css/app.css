@@ -31,15 +31,15 @@
 
 @font-face {
     font-family: font-lightdao;
-    src: url('/fonts/light.otf') format("opentype");
+    src: url('/fonts/medium.ttf') format("truetype");
 }
 
-.font-bold {
-    font-family: font-bold;
+.font-boldao {
+    font-family: font-boldao;
 }
 
-.font-light {
-    font-family: font-light;
+.font-lightdao {
+    font-family: font-lightdao;
 }
 
 
