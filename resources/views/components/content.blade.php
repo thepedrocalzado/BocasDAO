@@ -12,4 +12,9 @@
             <span class="text-dao leading-tight font-bold text-xl">{{ __('Fiat') }}</span>
         </p>
     </div>
+    <div class="md:max-w-6xl md:mx-auto text-center ">
+            <p class="text-white leading-tight font-bold xs:text-lg lg:text-2xl mt-6">
+                {{ __('Passportinfo') }}
+            </p>
+        </div>
 </div>
