@@ -48,9 +48,13 @@
 
     <body class="bg-darkblue">
     @extends('components/footer')
-    @extends('components/faqs')
+    @extends('components/title/contact')
 
-    @extends('components/passport')
+    @extends('components/faqs')
+    @extends('components/title/faqs')
+
+    @extends('components/title/passport')
+
 
     @extends('components/content')
 
