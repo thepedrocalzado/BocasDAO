@@ -52,13 +52,15 @@
 
     @extends('components/faqs')
     @extends('components/title/faqs')
+    @extends('components/title/roadmap')
+
+
 
     @extends('components/title/passport')
 
 
     @extends('components/content')
 
-    @extends('components/toprefugio')
         @extends('components/topsection')
         @extends('components/navbar')
 

@@ -3,6 +3,5 @@
         <p class="text-white leading-tight font-bold text-5xl">
             Road Map
         </p>
-
     </div>
 </div>
