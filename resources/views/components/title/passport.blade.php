@@ -4,14 +4,8 @@
             {{ __('Passport') }}
         </p>
 
-
         @extends('components/passports/refugio')
 
-        @extends('components/passports/refugio')
-
-        @extends('components/passports/refugio')
-
-        @extends('components/passports/refugio')
 
     </div>
 </div>
