@@ -51,23 +51,11 @@
     <body class="bg-darkblue">
     @extends('components/footer')
     @extends('components/contact-form')
-
-    @extends('components/title/contact')
-
     @extends('components/faqs')
-    @extends('components/title/faqs')
     @extends('components/title/roadmap')
-
-
-
     @extends('components/title/passport')
-
-
     @extends('components/content')
-
         @extends('components/topsection')
         @extends('components/navbar')
-
-
     </body>
 </html>
