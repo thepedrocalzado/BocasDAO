@@ -114,7 +114,16 @@
 
 </style>
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
-<div class="mt-12 mb-12">
+<div class="  bg-lightgreen pb-12">
+
+<div class="bg-lightgreen pt-10 static " id="passport">
+    <div class="md:max-w-6xl md:mx-auto text-left justify-left ">
+        <p class="text-white leading-tight font-bold text-5xl mb-10">
+            The Passport of your choice...
+        </p>
+    </div>
+</div>
+
     <div class='card'>
         <div class="container text-center">
             <img src="https://www.larazon.es/resizer/eUdlAaViar6ldNv_0ZzrHDdj1z0=/600x400/smart/filters:format(webp):quality(65)/cloudfront-eu-central-1.images.arcpublishing.com/larazon/C3QPAGIE3RBULNY6TPH7GGWBTQ.jpg" class='nft'>

@@ -1,6 +1,6 @@
-<div class="bg-lightgreen pt-10 pb-10 static " id="roadmap">
-    <div class="md:max-w-6xl md:mx-auto text-center ">
-        <p class="text-white leading-tight font-bold text-5xl">
+<div class="bg-darkdao pt-28 pb-10 static " id="roadmap">
+    <div class="md:max-w-6xl md:mx-auto text-left  ">
+        <p class="text-white leading-tight font-bold text-5xl ml-4">
             Road Map
         </p>
     </div>
@@ -261,7 +261,7 @@
 <section class="timeline">
     <ul>
         <li>
-            <div>
+            <div class="rounded-xl shadow-gray-50 shadow-lg">
                 <time class="underline font-boldao uppercase">Prior to 2022</time>
                 <p>Selection of the island property </p>
                 <p>Permits from Panamanian Tourism Ministry</p>
