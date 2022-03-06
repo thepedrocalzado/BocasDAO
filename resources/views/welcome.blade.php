@@ -37,15 +37,26 @@
         } );
     </script>
     <style type="text/css">
-        @font-face {
-            font-family: font-boldao;
-            src: url('{{ asset('/fonts/negrita.otf')  }}');
-        }
+       @font-face {
+           font-family: font-boldao;
+           src: url('/fonts/negrita.otf') format("opentype");
+       }
 
-        @font-face {
-            font-family:  font-lightdao;
-            src: url('{{ asset('/fonts/medium.ttf') }}');
-        }
+       @font-face {
+           font-family: font-lightdao;
+           src: url('/fonts/medium.ttf') format("truetype");
+       }
+
+
+
+       .font-boldao {
+           font-family: font-boldao;
+       }
+
+       .font-lightdao {
+           font-family: font-lightdao;
+       }
+
     </style>
 
     <body class="bg-darkblue">
