@@ -39,12 +39,12 @@
     <style type="text/css">
        @font-face {
            font-family: font-boldao;
-           src: url('/fonts/negrita.otf') format("opentype");
+           src: url('../fonts/negrita.otf') format("opentype");
        }
 
        @font-face {
            font-family: font-lightdao;
-           src: url('/fonts/medium.ttf') format("truetype");
+           src: url('../fonts/medium.ttf') format("truetype");
        }
 
 
