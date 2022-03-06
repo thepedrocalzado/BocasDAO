@@ -33,7 +33,7 @@
 
     .container {
         width: 90%;
-        max-width: 1200px;
+        max-width: auto;
         margin: 0 auto;
         text-align: center;
     }
