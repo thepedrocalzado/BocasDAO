@@ -1,9 +1,11 @@
 <div class="bg-lightgreen">
 
-<div class=" faqs flex flex-wrap md:max-w-6xl md:mx-auto sm:mb-2 -mx-2 " id="faqs">
+<div class=" faqs flex flex-wrap md:max-w-6xl md:mx-auto sm:mb-2 -mx-2 pb-10 " id="faqs">
     <div class="w-full px-4 py-2">
-        <p class="text-white leading-tight font-bold text-5xl text-center mb-6 mt-9">
+        <p class="text-white leading-tight font-bold text-5xl mb-10 ml-4 pt-10 pb-10">
             Frequently Asked Questions
+
+
         </p>
 
             <details class="flex mb-4 max-w-3xl mx-auto details">

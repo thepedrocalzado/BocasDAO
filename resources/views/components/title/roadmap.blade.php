@@ -1,10 +1,4 @@
-<div class="bg-darkdao pt-28 pb-10 static " id="roadmap">
-    <div class="md:max-w-6xl md:mx-auto text-left  ">
-        <p class="text-white leading-tight font-bold text-5xl ml-4">
-            Road Map
-        </p>
-    </div>
-</div>
+
 
 <style>
     *,
@@ -33,7 +27,7 @@
 
     .container {
         width: 90%;
-        max-width: auto;
+        max-width: 1200px;
         margin: 0 auto;
         text-align: center;
     }
@@ -258,10 +252,17 @@
     }
 
 </style>
-<section class="timeline">
+<section class="timeline pb-10">
+    <div class="bg-darkblue pt-10 pb-10 static " id="roadmap">
+        <div class="md:max-w-6xl md:mx-auto text-left justify-left ">
+            <p class="text-white leading-tight font-bold text-5xl mb-10 ml-4">
+                Road Map
+            </p>
+        </div>
+    </div>
     <ul>
         <li>
-            <div class="rounded-xl shadow-gray-50 shadow-lg">
+            <div>
                 <time class="underline font-boldao uppercase">Prior to 2022</time>
                 <p>Selection of the island property </p>
                 <p>Permits from Panamanian Tourism Ministry</p>

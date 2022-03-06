@@ -1,12 +1,12 @@
 
 
-<div class="md:max-w-6xl md:mx-auto" id="contact">
+<div class="md:max-w-6xl md:mx-auto pt-10 pb-10" id="contact">
 
 <div
     class="max-w-screen-xl mt-24 px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto bg-gray-100 text-gray-900 rounded-lg shadow-lg">
     <div class="flex flex-col justify-between">
         <div>
-            <h2 class="text-4xl lg:text-5xl font-bold leading-tight text-black">Lets talk about everything!</h2>
+            <h2 class="text-4xl lg:text-5xl font-bold leading-tight text-black">Interested…? Let’s discuss!</h2>
         </div>
         <div class="mt-8 text-center">
             <style>
