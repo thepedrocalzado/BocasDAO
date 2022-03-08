@@ -44,7 +44,7 @@
 
        @font-face {
            font-family: font-lightdao;
-           src: url('{{ asset('fonts/medium.ttf') }}') format("truetype");
+           src: url('{{ asset('fonts/light.ttf') }}') format("truetype");
        }
 
 
