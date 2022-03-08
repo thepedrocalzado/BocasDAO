@@ -39,7 +39,7 @@
     <style type="text/css">
        @font-face {
            font-family: font-boldao;
-           src: url('fonts/negrita.otf') format("opentype");
+           src: url('{{ public_path('fonts/negrita.otf') }}') format("opentype");
        }
 
        @font-face {
