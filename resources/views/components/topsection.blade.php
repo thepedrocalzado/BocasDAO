@@ -9,10 +9,10 @@
                   {{ __('Present') }}
               </h1>
 
-              <p class="text-white md:text-2xl md:pr-48 sm:text-6xl font-light">
+              <p class="text-white md:text-2xl md:pr-48 sm:text-6xl font-lightdao">
                   {{ __('Presentinfo') }}
               </p>
-                <p class="text-white md:text-xl md:pr-48 text-right font-ligh italic">
+                <p class="text-white md:text-xl md:pr-48 text-right font-lightdao italic">
                     {{ __('Refugee') }}
                 </p>
             </div>
