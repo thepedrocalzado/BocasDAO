@@ -12,7 +12,7 @@
               <p class="text-white md:text-2xl md:pr-48 sm:text-6xl font-lightdao">
                   {{ __('Presentinfo') }}
               </p>
-                <p class="text-white md:text-xl md:pr-48 text-right font-lightdao italic">
+                <p class="text-blue-600 md:text-xl md:pr-48 text-right font-boldao italic">
                     {{ __('Refugee') }}
                 </p>
             </div>

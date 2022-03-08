@@ -47,6 +47,15 @@
            src: url('{{ asset('fonts/light.otf') }}') format("opentype");
        }
 
+       @font-face {
+           font-family: font-meddao;
+           src: url('{{ asset('fonts/medium.ttf') }}') format("truetype");
+       }
+
+
+       .font-medao {
+           font-family: font-meddao;
+       }
 
 
        .font-boldao {
