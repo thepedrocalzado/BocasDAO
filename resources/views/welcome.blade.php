@@ -18,8 +18,8 @@
         <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
         <title>BocasDAO</title>
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
-
+        <link rel="stylesheet"
+              href="https://fonts.googleapis.com/css?family=RocknRoll+One">
     </head>
     <script>
         jQuery(document).ready(function($) {
@@ -39,7 +39,12 @@
     <style type="text/css">
        @font-face {
            font-family: font-boldao;
-           src: url('../fonts/negrita.otf') format("opentype");
+           src: url('https://fonts.googleapis.com/css?family=RocknRoll+One') format("opentype");
+       }
+
+       @font-face {
+           font-family: font-boldao;
+           src: url(https://fonts.gstatic.com/s/rocknrollone/v8/kmK7ZqspGAfCeUiW6FFlmEC9guAJo7lOIXdAaKvxsd78XShUaFYmwvLa.2.woff2) format('woff2');
        }
 
        @font-face {
