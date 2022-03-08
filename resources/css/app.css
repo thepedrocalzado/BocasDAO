@@ -26,12 +26,12 @@
 
 @font-face {
     font-family: font-boldao;
-    src: url('/fonts/negrita.otf') format("opentype");
+    src: url('resources/fonts/negrita.otf') format("opentype");
 }
 
 @font-face {
     font-family: font-lightdao;
-    src: url('/fonts/medium.ttf') format("truetype");
+    src: url('resources/fonts/medium.ttf') format("truetype");
 }
 
 
