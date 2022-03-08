@@ -26,12 +26,12 @@
 
 @font-face {
     font-family: font-boldao;
-    src: url(https://fonts.gstatic.com/s/rocknrollone/v8/kmK7ZqspGAfCeUiW6FFlmEC9guAJo7lOIXdAaKvxsd78XShUaFYmwvLa.2.woff2) format('woff2');
+    src: url('/fonts/negrita.otf') format("opentype");
 }
 
 @font-face {
     font-family: font-lightdao;
-    src: url('../fonts/medium.ttf') format("truetype");
+    src: url('/fonts/medium.ttf') format("truetype");
 }
 
 
@@ -39,4 +39,11 @@
 .font-boldao {
     font-family: font-boldao;
 }
+
+.font-lightdao {
+    font-family: font-lightdao;
+}
+
+
+
 
