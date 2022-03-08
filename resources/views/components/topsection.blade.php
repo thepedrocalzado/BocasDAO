@@ -5,7 +5,7 @@
         <div class="md:max-w-6xl md:mx-auto">
           <div class="md:flex md:flex-wrap">
             <div class="md:w-1/2 text-center md:text-left md:pt-20">
-              <h1 class="font-bold text-white text-3xl md:text-5xl sm:text-6xl leading-tight mb-4">
+              <h1 class="font-bold text-white text-3xl md:text-5xl sm:text-6xl leading-tight mb-4 font-boldao">
                   {{ __('Present') }}
               </h1>
 
