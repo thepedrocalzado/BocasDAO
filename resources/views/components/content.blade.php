@@ -17,18 +17,18 @@
                         <div class="md:max-w-6xl md:mx-auto text-center ">
                             <p class="text-white leading-tight font-boldao xs:text-lg lg:text-3xl">
                                 {{ __('Identity') }}
-                                <span class="text-dao leading-tight font-bold text-2xl">{{ __('Beach') }}</span>
+                                <span class="text-dao leading-tight font-boldao text-2xl">{{ __('Beach') }}</span>
                                 , {{ __('el') }}
-                                <span class="text-dao leading-tight font-bold text-2xl">{{ __('Sunshine') }}</span> ,
-                                <span class="text-dao leading-tight font-bold text-2xl">{{ __('Caribbean') }}</span>
+                                <span class="text-dao leading-tight font-boldao text-2xl">{{ __('Sunshine') }}</span> ,
+                                <span class="text-dao leading-tight font-boldao text-2xl">{{ __('Caribbean') }}</span>
                                 {{ __('Vibes') }} {{ __('VibesEs') }}
-                                <span class="text-dao leading-tight font-bold text-2xl">{{ __('Caribbean2') }}</span>
+                                <span class="text-dao leading-tight font-boldao text-2xl">{{ __('Caribbean2') }}</span>
                                 {{ __('VibesEs2') }}
-                                <span class="text-dao leading-tight font-bold text-xl">{{ __('Fiat') }}</span>
+                                <span class="text-dao leading-tight font-boldao text-xl">{{ __('Fiat') }}</span>
                             </p>
                         </div>
                         <div class="md:max-w-6xl md:mx-auto text-center mt-5 ">
-                            <p class="text-white leading-tight font-bold xs:text-lg lg:text-2xl mt-12">
+                            <p class="text-white leading-tight font-boldao xs:text-lg lg:text-2xl mt-12">
                                 {{ __('Passportinfo') }}
                                 <span class="text-dao hover:underline" href="#">
                                     <a href="https://opensea.io/">
