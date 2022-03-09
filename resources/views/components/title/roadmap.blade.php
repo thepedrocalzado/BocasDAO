@@ -39,9 +39,6 @@
     /* TIMELINE
     –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-    .timeline ul {
-        padding: 50px 0;
-    }
 
     .timeline ul li {
         list-style-type: none;
@@ -89,7 +86,7 @@
     .timeline ul li:nth-child(odd) div::before {
         left: -15px;
         border-width: 8px 16px 8px 0;
-        border-color: transparent #f45b69 transparent transparent;
+        border-color: transparent white transparent transparent;
     }
 
     .timeline ul li:nth-child(even) div {
@@ -99,7 +96,7 @@
     .timeline ul li:nth-child(even) div::before {
         right: -15px;
         border-width: 8px 0 8px 16px;
-        border-color: transparent transparent transparent #f45b69;
+        border-color: transparent transparent transparent white;
     }
 
     time {
@@ -117,7 +114,7 @@
     }
 
     .timeline ul li.in-view::after {
-        background: #f45b69;
+        background: #1cd1b2;
     }
 
     .timeline ul li div {
@@ -166,7 +163,7 @@
         .timeline ul li:nth-child(even) div::before {
             left: -15px;
             border-width: 8px 16px 8px 0;
-            border-color: transparent #6b6b6b transparent transparent;
+            border-color: transparent white transparent transparent;
         }
     }
 
@@ -253,42 +250,60 @@
 
 </style>
 <section class="timeline pb-10">
-    <div class="bg-darkblue pt-10 pb-10 static " id="roadmap">
+    <div class="bg-darkblue pt-10 static " id="roadmap">
         <div class="md:max-w-6xl md:mx-auto text-left justify-left ">
-            <p class="text-white leading-tight font-bold text-5xl mb-10 ml-4">
+            <p class="text-white leading-tight font-boldao text-5xl mb-10 ml-4">
                 Road Map
             </p>
         </div>
     </div>
     <ul>
         <li>
-            <div>
-                <time class="underline font-boldao uppercase">Prior to 2022</time>
-                <p>Selection of the island property </p>
-                <p>Permits from Panamanian Tourism Ministry</p>
-                <p>Environmental Impact study for construction on land and over water approved</p>
+            <div class="rounded-3xl	">
+                <time class="font-boldao uppercase">
+                    <p class="text-3xl">
+                        Prior to 2022
+                    </p>
+                </time>
+                <p class="font-boldao">Selection of the island property </p>
+                <p class="font-boldao">Permits from Panamanian Tourism Ministry</p>
+                <p class="font-boldao">Environmental Impact study for construction on land and over water approved</p>
             </div>
         </li>
         <li>
-            <div>
-                <time class="underline font-boldao uppercase">Early 2022</time>
-                    <p>NFT sale</p>
-                    <p>Legal compliance</p>
-                    <p>Over water concession</p>
-                    <p>Local building permit</p>
-                    <p>Contract with Architects</p>
-                    <p>Choosing Construction Company</p>
+            <div class="rounded-3xl	">
+                <time class="font-boldao uppercase">
+                    <p class="text-3xl">
+                        Early 2022
+                    </p>
+                </time>
+                    <p class="font-boldao">NFT sale</p>
+                    <p class="font-boldao">Legal compliance</p>
+                    <p class="font-boldao">Over water concession</p>
+                    <p class="font-boldao">Local building permit</p>
+                    <p class="font-boldao">Contract with Architects</p>
+                    <p class="font-boldao">Choosing Construction Company</p>
             </div>
         </li>
         <li>
-            <div>
-                <time class="underline font-boldao uppercase">Mid - late 2022</time> Start of Construction
+            <div class="rounded-3xl	">
+                <time class="font-boldao uppercase">
+                    <p class="text-3xl">
+                        Mid - late 2022
+                    </p>
+                </time>
+                <p class="font-boldao">Start of Construction</p>
             </div>
         </li>
 
         <li>
-            <div>
-                <time class="underline font-boldao uppercase">Late 2023</time> Grand Opening
+            <div class="rounded-3xl	">
+                <time class="font-boldao uppercase">
+                    <p class="text-3xl">
+                        Late 2023
+                    </p>
+                </time>
+                <p class="font-boldao">Grand Opening</p>
             </div>
         </li>
 
