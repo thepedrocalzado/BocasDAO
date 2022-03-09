@@ -24,18 +24,30 @@
                     <li class="mb-4">
                         <a href="https://discord.gg/4eeurUVvTy" target="_blank" class=" hover:underline text-gray-400">Discord</a>
                     </li>
+                    <li class="mb-4">
+                        <a href="https://github.com/themesberg/flowbite" target="_blank" class="hover:underline text-gray-400">Twitter</a>
+                    </li>
                     <li >
-                        <a href="https://github.com/themesberg/flowbite" target="_blank" class="hover:underline text-gray-400">Github</a>
+                        <a href="https://github.com/themesberg/flowbite" target="_blank" class="hover:underline text-gray-400">Instagram</a>
                     </li>
                 </ul>
             </div>
             <div>
                 <h3 class="mb-6 text-sm font-semibold uppercase text-white">{{ __('Legal') }}</h3>
                 <ul>
-                    <li>
+                    <li class="mb-4">
                         <a href="{{ route('terms') }}"  class=" hover:underline text-gray-400">{{ __('Terms') }}
                         </a>
                     </li>
+                    <li class="mb-4">
+                        <a href="terminos de privacidad"  class=" hover:underline text-gray-400">Términos de privacidad
+                        </a>
+                    </li>
+                    <li>
+                        <a href="terminos de privacidad"  class=" hover:underline text-gray-400">Términos de Cookies
+                        </a>
+                    </li>
+
                 </ul>
             </div>
         </div>
