@@ -13,7 +13,7 @@
                     I am new to Crypto…how can I get involved?
                 </summary>
 
-                <div class="info p-4 text-white font-meddao leading-tight bg-gray-700 mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
+                <div class="info p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
                     If you are all new to Crypto, the first step is to make yourself with some ETH (Etherium, the second largest Crypto currency). The easiest is to exchange USD, EUR, or any FIAT currency via credit card or bank transfer at one of the major exchanges like Coinbase, Binance, Kraken, etc.
                     Once you receive your ETH in your exchange account, we recommend to transfer the ETH to your own wallet.
                     Since for further transactions a MetaMask wallet comes very handy, this would be our wallet of choice.
@@ -26,7 +26,7 @@
                 What are NFTs?
             </summary>
 
-            <div class=" info p-4 text-white font-lightdao leading-tight bg-gray-700 mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
+            <div class=" info p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
                 NFT stands for “Non-fungible token” and is a unique, one-of-a-kind digital item that users can buy, own, and trade. Use cases are digital art, digital stamps, digital land, etc. Our NFTs are like a rare piece of art that can also act as a “timeshare membership” card which gets you access to the resort and community exclusives.
             </div>
         </details>
