@@ -2,14 +2,14 @@
 
 <div class=" faqs flex flex-wrap md:max-w-6xl md:mx-auto sm:mb-2 -mx-2 pb-10 " id="faqs">
     <div class="w-full px-4 py-2">
-        <p class="text-white leading-tight font-boldAO text-5xl mb-10 ml-4 pt-10 pb-10">
+        <p class="text-white leading-tight font-boldao text-5xl mb-10 ml-4 pt-10 pb-10">
             Frequently Asked Questions
 
 
         </p>
 
             <details class="flex mb-4 max-w-3xl mx-auto details">
-                <summary class="summary font-boldAO cursor-pointer bg-darkblue rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
+                <summary class="summary font-boldao cursor-pointer bg-darkblue rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
                     I am new to Crypto…how can I get involved?
                 </summary>
 
@@ -22,7 +22,7 @@
             </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto details">
-                <summary class="summary font-boldAO cursor-pointer bg-darkblue rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
+                <summary class="summary font-boldao cursor-pointer bg-darkblue rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
                 What are NFTs?
             </summary>
 
