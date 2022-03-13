@@ -17,7 +17,7 @@
 
 
             </div>
-            <div class="grid grid-cols-4 gap-1 text-center items-center justify-center content-center mx-auto">
+            <div class="grid grid-cols-4 gap-2 text-center items-center justify-center content-center mx-auto">
                 <div class=" uppercase font-boldao">days</div>
                 <div class=" uppercase font-boldao">hours</div>
                 <div class=" uppercase font-boldao">minutes</div>
@@ -40,11 +40,11 @@
         //I'm adding this section so I don't have to keep updating this pen every year :-)
         //remove this if you don't need it
         let today = new Date(),
-            dd = String(today.getDate()).padStart(2, "0"),
+            dd = String(today.getDate()).padStart(1, "0"),
             mm = String(today.getMonth() + 1).padStart(2, "0"),
             yyyy = today.getFullYear(),
             nextYear = yyyy + 1,
-            dayMonth = "09/30/",
+            dayMonth = "05/01/",
             birthday = dayMonth + yyyy;
 
         today = mm + "/" + dd + "/" + yyyy;
