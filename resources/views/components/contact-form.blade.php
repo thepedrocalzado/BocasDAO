@@ -5058,7 +5058,7 @@ CzAAqYTVOPWO2yYAAAAASUVORK5CYII=" transform="matrix(0.98 0 0 0.98 1024.2817 776.
             <input class="w-full bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
                    type="text" name="email" id="email" required>
         </div>
-        <input class="mt-8">
+        <div class="mt-8">
             <label class="uppercase text-sm text-gray-600 font-boldao" for="message">Message</label>
             <input class="w-full h-32 bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" id="msg" name="msg"> </input>
         </div>
