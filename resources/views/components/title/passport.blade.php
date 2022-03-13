@@ -37,7 +37,7 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most economic <span class="text-dao font-boldao">NFT</span> to enter the <span class="text-dao font-boldao">El Refugio Beach Bungalows</span>. This can be your once in a lifetime vacation, or your first step to form part in the <span class="text-dao font-boldao">BocasDAO</span>.            </p>
+                Our most economic <span class="text-dao font-boldao">NFT</span> to enter the <span class="text-dao font-boldao">El Refugio Beach Bungalows</span>. This can be your once in a lifetime vacation, or your first step to form part in the <span class="text-dao font-boldao">BocasDAO.</span>.            </p>
 
             <div class="flex justify-between items-center mt-4">
                 <div class="flex text-cyan space-x-2">
