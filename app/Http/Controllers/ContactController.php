@@ -10,7 +10,7 @@ class ContactController extends Controller
 {
     public function contact()
     {
-        return view('/contact');
+        return view('welcome');
     }
 
     public function contactSubmit(Request $request)
@@ -25,7 +25,7 @@ class ContactController extends Controller
             Session::flash('message', '	👋 Gracias por ponerte en contacto conmigo!! En breve le responderé.. ');
         });
 
-        return redirect()->route('/contact');
+        return redirect()->route('welcome');
 
     }
 
