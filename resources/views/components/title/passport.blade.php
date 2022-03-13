@@ -37,7 +37,7 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most economic <span class="text-dao font-boldao">NFT</span> to enter the <span class="text-dao font-boldao">El Refugio Beach Bungalows</span>. This can be your once in a lifetime vacation, or your first step to form part in the <span class="text-dao font-boldao">BocasDAO.</span>.            </p>
+                Our most economic <span class="text-dao font-boldao">NFT</span> to enter the <span class="text-dao font-boldao">El Refugio Beach Bungalows</span>. This can be your once in a lifetime vacation, or your first step to form part in the <span class="text-dao font-boldao">BocasDAO</span>.            </p>
 
             <div class="flex justify-between items-center mt-4">
                 <div class="flex text-cyan space-x-2">
@@ -258,14 +258,14 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Wanna spend some more time relaxing in the Caribbean. Two week annually and great community advatages will recharge your batteries. Great surfing, laid back atmosphere, and your crypto friends to party with.
+                Wanna spend some more time relaxing in the  <span class="text-dao font-boldao">Caribbean</span>. Two week annually and great community advatages will recharge your batteries. Great surfing, laid back atmosphere, and your crypto friends to party with.
             <div class="flex justify-between items-center mt-4">
                 <div class="flex text-cyan space-x-2">
                     <img src="{{asset("/img/icons/eth.svg")}}" alt="ethereum icon" />
-                    <p class="font-boldao">0,5 ETH</p>
+                    <p class="font-boldao">10 ETH</p>
                 </div>
                 <div class="flex items-center text-soft-blue space-x-2 whitespace-nowrap">
-                    <p class="font-boldao">500 <p class="text-xs font-boldao">units</p></p>
+                    <p class="font-boldao">100 <p class="text-xs font-boldao uppercase">units</p></p>
                 </div>
             </div>
 
@@ -291,30 +291,30 @@
                             </div>
                             <!--Body-->
                             <div class="my-5 text-black">
-                                <ul class="list-reset font-bold text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
+                                <ul class="list-reset font-boldao text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Accommodation right for 1 week (one-timeeee bocas)
+                                        Accommodation right for 2 week annually
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Discounts of future bookings
+                                        2 VIP tickets to the annual “DAO Retreat Event”
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        2 tickets to the “DAO Retreat Event”
+                                        2 VIP tickets to the Grand Opening Party
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Lottery ticket to win a Carenero Passort NFT
+                                        Lottery ticket to win a Panama Passport NFT
                                     </li>
 
                                     <li class="flex items-center mb-3 text-lg">
@@ -330,7 +330,6 @@
                                             /></svg>
                                         Access to our exclusive Discord Group
                                     </li>
-
 
                                 </ul>
                             </div>
@@ -381,7 +380,7 @@
                     <p class="font-boldao">0,5 ETH</p>
                 </div>
                 <div class="flex items-center text-soft-blue space-x-2 whitespace-nowrap">
-                    <p class="font-boldao">500 <p class="text-xs font-boldao">units</p></p>
+                    <p class="font-boldao">15 <p class="text-xs font-boldao">100</p></p>
                 </div>
             </div>
 
@@ -407,30 +406,31 @@
                             </div>
                             <!--Body-->
                             <div class="my-5 text-black">
-                                <ul class="list-reset font-bold text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
+                                <ul class="list-reset font-boldao text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Accommodation right for 1 week (one-time)
+                                        Granted accommodation right during the annual
+                                        “DAO Retreat Event”
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Discounts of future bookings
+                                        2 VIP tickets to the “DAO Retreat Event”
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        2 tickets to the “DAO Retreat Event panama”
+                                        Pre-Opening Invitation for 2 Pax
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Lottery ticket to win a Carenero Passort NFT
+                                        2 VIP tickets to the Grand Opening Party
                                     </li>
 
                                     <li class="flex items-center mb-3 text-lg">
