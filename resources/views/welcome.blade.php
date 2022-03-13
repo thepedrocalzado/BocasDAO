@@ -19,7 +19,6 @@
         <title>BocasDAO</title>
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
-        <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1d69968d-d274-4615-9aec-b611433f2616" data-blockingmode="auto" type="text/javascript"></script>
 
     </head>
     <script>
@@ -79,6 +78,5 @@
     @extends('components/topsection')
     @extends('components/navbar')
     </body>
-    <script id="CookieDeclaration" src="https://consent.cookiebot.com/1d69968d-d274-4615-9aec-b611433f2616/cd.js" type="text/javascript" async></script>
 
 </html>
