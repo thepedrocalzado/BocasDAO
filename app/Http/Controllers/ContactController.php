@@ -20,7 +20,7 @@ class ContactController extends Controller
             Session::flash('message', '	👋 Gracias por ponerte en contacto conmigo!! En breve le responderé.. ');
         });
 
-        return redirect()->route('contact');
+        return redirect()->route('welcome');
 
     }
 
