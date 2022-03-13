@@ -8,21 +8,36 @@
 
         </p>
 
-            <details class="flex mb-4 max-w-3xl mx-auto details">
-                <summary class="summary font-boldao cursor-pointer bg-darkblue rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
+        <details class="flex mb-4 max-w-3xl mx-auto details">
+                <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
                     I am new to Crypto…how can I get involved?
                 </summary>
 
                 <div class="info p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
-                    If you are all new to Crypto, the first step is to make yourself with some ETH (Etherium, the second largest Crypto currency). The easiest is to exchange USD, EUR, or any FIAT currency via credit card or bank transfer at one of the major exchanges like Coinbase, Binance, Kraken, etc.
-                    Once you receive your ETH in your exchange account, we recommend to transfer the ETH to your own wallet.
+                    If you are all new to Crypto, the first step is to make yourself with some
+                    <a class="text-dao hover:underline" href="#">ETH (Etherium, the second largest Crypto currency)</a>
+                    . The easiest is to exchange
+                    <a class="text-dao hover:underline" href="#">USD</a>
+                    , <a class="text-dao hover:underline" href="#">EUR</a>
+                    , or any <a class="text-dao hover:underline" href="#">FIAT</a>
+                    currency via credit card or bank transfer at one of the major exchanges like <a class="text-dao hover:underline" href="#">Coinbase</a>
+                    , <a class="text-dao hover:underline" href="#">Binance</a>
+                    , <a class="text-dao hover:underline" href="#">Kraken</a>
+                    , etc.
+                    Once you receive your <a class="text-dao hover:underline" href="#">ETH</a>
+                    in your exchange account, we recommend to transfer the <a class="text-dao hover:underline" href="#">ETH</a>
+                    to your own <a class="text-dao hover:underline" href="#">wallet</a>
+                    .
                     Since for further transactions a MetaMask wallet comes very handy, this would be our wallet of choice.
-                    After transferring the ETH to your MetaMask wallet, you are ready to go. Just click on “get Passport” to purchase your choice of Passport on OpenSea.
+                    After transferring the <a class="text-dao hover:underline" href="#">ETH</a>
+                    to your <a class="text-dao hover:underline" href="#">MetaMask wallet</a>
+                    , you are ready to go. Just click on <a class="text-dao hover:underline" href="#">“get Passport”</a>
+                    to purchase your choice of Passport on <a class="text-dao hover:underline" href="#">OpenSea</a>.
                 </div>
             </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto details">
-                <summary class="summary font-boldao cursor-pointer bg-darkblue rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
+                <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight font-bold shadow-lg max-w-3xl mx-auto">
                 What are NFTs?
             </summary>
 
@@ -32,30 +47,30 @@
         </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto">
-                <summary class="summary font-semibold cursor-pointer bg-darkblue rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
+                <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
                 What if the NFTs are sold out?
             </summary>
 
-            <div class=" p-4 text-white font-bold leading-tight bg-gray-700 mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
+            <div class=" p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
                 In case our Passport NFTs have sold out, you can try to purchase one on a secondary market (Rarible, OpenSea, etc). Also, feel free to join the Discord and ask as well!
             </div>
         </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto">
-                <summary class="summary font-semibold cursor-pointer bg-darkblue rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
+                <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
                 What is a DAO?
             </summary>
 
-            <div class=" p-4 text-white font-bold leading-tight bg-gray-700 mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
+            <div class=" p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
                 DAO stands for "Decentralized Autonomous Organization." Our concept allows decentralized decision making and community coordination. Passport holders will be able to make proposals, approvals and overview the execution of non-financial BocasDAO matters.            </div>
         </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto">
-                <summary class="summary font-semibold cursor-pointer bg-darkblue rounded-md py-2 px-4 shadow shadow-lg text-white leading-tight font-bold shadow-lg max-w-3xl mx-auto">
+                <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
                 Why Bocas del Toro?
             </summary>
 
-            <div class=" p-4 text-white font-bold leading-tight bg-gray-700 mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
+            <div class=" p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
                 Bocas del Toro consists of nine main islands and more than 200 keys. The islands are famous for their beaches, bays, wildlife, and the relaxed way of their people’s life. The province has a total population of approximately 126,000 people. Bocas del Toro borders the Caribbean Sea to the north, sharing the border with Costa Rica.
 
                 Bocas del Toro has been a beach destination for Panamanians for many years. In addition, lately many tourists from Europe and America also visit this beautiful hideaway. Bocas has experienced high growth rates during the last years and is expected to turn into the main tourist destination outside the Panama City area.
