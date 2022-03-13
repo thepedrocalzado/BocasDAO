@@ -37,7 +37,7 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most economic NFT to enter the El Refugio Beach Bungalows. This can be your once in a lifetime vacation, or your first step to form part in the BocasDAO.            </p>
+                Our most economic <span class="text-dao font-boldao">NFT</span> to enter the <span class="text-dao font-boldao">El Refugio Beach Bungalows</span>. This can be your once in a lifetime vacation, or your first step to form part in the <span class="text-dao font-boldao">BocasDAO</span>.            </p>
 
             <div class="flex justify-between items-center mt-4">
                 <div class="flex text-cyan space-x-2">
@@ -71,7 +71,7 @@
                             </div>
                             <!--Body-->
                             <div class="my-5 text-black">
-                                <ul class="list-reset font-bold text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
+                                <ul class="list-reset font-boldao text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
@@ -185,8 +185,8 @@
                                 </button>
                             </div>
                             <!--Body-->
-                            <div class="my-5 text-black font-boldao">
-                                <ul class="list-reset font-bold text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
+                            <div class="my-5 text-black">
+                                <ul class="list-reset font-boldao text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
