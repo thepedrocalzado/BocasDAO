@@ -41,4 +41,7 @@ Route::get('/passport/panama', function () {
     return view('/components/QR/panama-qr');
 })->name("panama-qr");
 
-
+Route::get('/clear-cache', function() {
+    $exitCode = Artisan::call('cache:clear');
+    // return what you want
+});
