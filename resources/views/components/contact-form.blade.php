@@ -5063,11 +5063,6 @@ CzAAqYTVOPWO2yYAAAAASUVORK5CYII=" transform="matrix(0.98 0 0 0.98 1024.2817 776.
             <input class="w-full h-32 bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" id="msg" name="msg"> </input>
         </div>
 
-        @if(Session::has('message'))
-            <div class="flex items-center bg-blue-500 text-white text-sm font-bold px-4 py-3 rounded-lg" role="alert">
-                {{Session('message')}}
-            </div>
-        @endif
         <div class="mt-8">
             <button class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao uppercase text-white bg-[#1cd1b2] rounded-lg" type="submit" name="submit">Send message</button>
         </div>
