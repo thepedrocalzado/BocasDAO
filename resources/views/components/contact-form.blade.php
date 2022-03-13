@@ -5045,7 +5045,7 @@ CzAAqYTVOPWO2yYAAAAASUVORK5CYII=" transform="matrix(0.98 0 0 0.98 1024.2817 776.
             </div>
         </div>
     </div>
-    <form method="POST" action="{{route('contact.submit')}}">
+    <form method="POST" action="">
         @csrf
 
         <div>

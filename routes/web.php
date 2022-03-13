@@ -42,6 +42,3 @@ Route::get('/passport/panama', function () {
 })->name("panama-qr");
 
 
-Route::post('/#contact',
-    'App\Http\Controllers\ContactController@contactSubmit')
-    ->name('contact.submit');
