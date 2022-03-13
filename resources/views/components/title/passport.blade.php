@@ -26,7 +26,7 @@
 
             <h1>
                 <div>
-                    <button onclick="toggleModal('ps-refugio')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
+                    <button onclick="toggleModal('modal-idrefugio')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
                         Passport Refugio
                         <i class="fa-solid fa-circle-info text-dao ml-3 hover:text-white"></i>
                     </button>
@@ -37,8 +37,7 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most desired NFT includes the processing of a permanent residency in Panama for citizens of Paises Amigos, and in case you want to change your fiscal domicile to Panama, we include in this NFT the right of lodging for 180 days per year.
-            </p>
+                Our most economic NFT to enter the El Refugio Beach Bungalows. This can be your once in a lifetime vacation, or your first step to form part in the BocasDAO.            </p>
 
             <div class="flex justify-between items-center mt-4">
                 <div class="flex text-cyan space-x-2">
@@ -46,13 +45,13 @@
                     <p class="font-boldao">0,5 ETH</p>
                 </div>
                 <div class="flex items-center text-soft-blue space-x-2 whitespace-nowrap">
-                    <p class="font-boldao">500 <p class="text-xs font-boldao">units</p></p>
+                    <p class="font-boldao">500 <p class="text-xs font-boldao uppercase">units</p></p>
                 </div>
             </div>
 
             <hr class=" mt-3" />
 
-            <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="ps-refugio">
+            <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="modal-idrefugio">
                 <div class="main-modal-refugio fixed w-full h-100 inset-0 z-50 overflow-hidden flex justify-center items-center animated fadeIn faster rounded-xl"
                      style="background: rgba(0,0,0,.7);">
                     <div
@@ -61,7 +60,7 @@
                             <!--Title-->
                             <div class="flex justify-between items-center pb-3">
                                 <p class="text-2xl font-bold">Header</p>
-                                <button class="cursor-pointer z-50" onclick="toggleModal('ps-refugio')">
+                                <button class="cursor-pointer z-50" onclick="toggleModal('modal-idrefugio')">
                                     <svg class="fill-current text-black" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
                                          viewBox="0 0 18 18">
                                         <path
@@ -127,8 +126,8 @@
         </section>
 
     </div>
-    <div id="panama">
-        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="refugio">
+    <div id="carenero">
+        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -142,8 +141,8 @@
 
             <h1>
                 <div>
-                    <button onclick="toggleModal('ps-refugio')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
-                        Passport Panamá
+                    <button onclick="toggleModal('modal-idcarenero')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
+                        Passport Carenero
                         <i class="fa-solid fa-circle-info text-dao ml-3 hover:text-white"></i>
                     </button>
 
@@ -153,22 +152,21 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most desired NFT includes the processing of a permanent residency in Panama for citizens of Paises Amigos, and in case you want to change your fiscal domicile to Panama, we include in this NFT the right of lodging for 180 days per year.
-            </p>
+                A great way to join the <span class="text-dao font-boldao">BocasDAO</span> and to enjoy your annually vacation between likeminded. Weather you are seeking to participate actively in the <span class="text-dao font-boldao">DAO</span>, or are securing your spot in the crypto getaway, <span class="text-dao font-boldao">Bocas del Toro</span> will cause a simile in your face.            </p>
 
             <div class="flex justify-between items-center mt-4">
                 <div class="flex text-cyan space-x-2">
                     <img src="{{asset("/img/icons/eth.svg")}}" alt="ethereum icon" />
-                    <p class="font-boldao">0,5 ETH</p>
+                    <p class="font-boldao">5 ETH</p>
                 </div>
                 <div class="flex items-center text-soft-blue space-x-2 whitespace-nowrap">
-                    <p class="font-boldao">500 <p class="text-xs font-boldao">units</p></p>
+                    <p class="font-boldao">200 <p class="text-xs font-boldao uppercase">units</p></p>
                 </div>
             </div>
 
             <hr class=" mt-3" />
 
-            <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="ps-refugio">
+            <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="modal-idcarenero">
                 <div class="main-modal-refugio fixed w-full h-100 inset-0 z-50 overflow-hidden flex justify-center items-center animated fadeIn faster rounded-xl"
                      style="background: rgba(0,0,0,.7);">
                     <div
@@ -177,7 +175,7 @@
                             <!--Title-->
                             <div class="flex justify-between items-center pb-3">
                                 <p class="text-2xl font-bold">Header</p>
-                                <button class="cursor-pointer z-50" onclick="toggleModal('ps-refugio')">
+                                <button class="cursor-pointer z-50" onclick="toggleModal('modal-idcarenero')">
                                     <svg class="fill-current text-black" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
                                          viewBox="0 0 18 18">
                                         <path
@@ -187,33 +185,25 @@
                                 </button>
                             </div>
                             <!--Body-->
-                            <div class="my-5 text-black">
+                            <div class="my-5 text-black font-boldao">
                                 <ul class="list-reset font-bold text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Accommodation right for 1 week (one-time)
+                                        Accommodation right for 1 week annually                                    </li>
+                                    <li class="flex items-center mb-3 text-lg">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
+                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                                            /></svg>
+                                        2 tickets to the annual “DAO Retreat Event”
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Discounts of future bookings
+                                        Lottery Ticket to win Bocas Passport NFT
                                     </li>
-                                    <li class="flex items-center mb-3 text-lg">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
-                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
-                                            /></svg>
-                                        2 tickets to the “DAO Retreat Event”
-                                    </li>
-                                    <li class="flex items-center mb-3 text-lg">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
-                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
-                                            /></svg>
-                                        Lottery ticket to win a Carenero Passort NFT
-                                    </li>
-
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
@@ -221,13 +211,12 @@
                                         Voting rights
                                     </li>
 
-                                    <li class="flex items-center mb-3 text-lg ">
+                                    <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
                                         Access to our exclusive Discord Group
                                     </li>
-
 
                                 </ul>
                             </div>
@@ -244,7 +233,7 @@
 
     </div>
     <div id="bocas">
-        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="refugio">
+        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="bocas">
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -258,8 +247,8 @@
 
             <h1>
                 <div>
-                    <button onclick="toggleModal('ps-refugio')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
-                        Passport Refugio
+                    <button onclick="toggleModal('modal-idbocas')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
+                        Passport Bocas
                         <i class="fa-solid fa-circle-info text-dao ml-3 hover:text-white"></i>
                     </button>
 
@@ -269,9 +258,7 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most desired NFT includes the processing of a permanent residency in Panama for citizens of Paises Amigos, and in case you want to change your fiscal domicile to Panama, we include in this NFT the right of lodging for 180 days per year.
-            </p>
-
+                Wanna spend some more time relaxing in the Caribbean. Two week annually and great community advatages will recharge your batteries. Great surfing, laid back atmosphere, and your crypto friends to party with.
             <div class="flex justify-between items-center mt-4">
                 <div class="flex text-cyan space-x-2">
                     <img src="{{asset("/img/icons/eth.svg")}}" alt="ethereum icon" />
@@ -284,7 +271,7 @@
 
             <hr class=" mt-3" />
 
-            <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="ps-refugio">
+            <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="modal-idbocas">
                 <div class="main-modal-refugio fixed w-full h-100 inset-0 z-50 overflow-hidden flex justify-center items-center animated fadeIn faster rounded-xl"
                      style="background: rgba(0,0,0,.7);">
                     <div
@@ -293,7 +280,7 @@
                             <!--Title-->
                             <div class="flex justify-between items-center pb-3">
                                 <p class="text-2xl font-bold">Header</p>
-                                <button class="cursor-pointer z-50" onclick="toggleModal('ps-refugio')">
+                                <button class="cursor-pointer z-50" onclick="toggleModal('modal-idbocas')">
                                     <svg class="fill-current text-black" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
                                          viewBox="0 0 18 18">
                                         <path
@@ -309,7 +296,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Accommodation right for 1 week (one-time)
+                                        Accommodation right for 1 week (one-timeeee bocas)
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
@@ -360,7 +347,7 @@
 
     </div>
     <div id="panama">
-        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="refugio">
+        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -374,8 +361,8 @@
 
             <h1>
                 <div>
-                    <button onclick="toggleModal('ps-refugio')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
-                        Passport Refugio
+                    <button onclick="toggleModal('modal-idpanama')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
+                        Passport Panamá
                         <i class="fa-solid fa-circle-info text-dao ml-3 hover:text-white"></i>
                     </button>
 
@@ -385,7 +372,7 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most desired NFT includes the processing of a permanent residency in Panama for citizens of Paises Amigos, and in case you want to change your fiscal domicile to Panama, we include in this NFT the right of lodging for 180 days per year.
+                Our most desired NFT includes the processing of a permanent residency in Panama for citizens of <a class=" text-dao hover:underline font-boldao uppercase" href="#" >Paises Amigos</a>, and in case you want to change your fiscal domicile to Panama, we include in this NFT the right of lodging for 180 days per year.
             </p>
 
             <div class="flex justify-between items-center mt-4">
@@ -400,7 +387,7 @@
 
             <hr class=" mt-3" />
 
-            <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="ps-refugio">
+            <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="modal-idpanama">
                 <div class="main-modal-refugio fixed w-full h-100 inset-0 z-50 overflow-hidden flex justify-center items-center animated fadeIn faster rounded-xl"
                      style="background: rgba(0,0,0,.7);">
                     <div
@@ -409,7 +396,7 @@
                             <!--Title-->
                             <div class="flex justify-between items-center pb-3">
                                 <p class="text-2xl font-bold">Header</p>
-                                <button class="cursor-pointer z-50" onclick="toggleModal('ps-refugio')">
+                                <button class="cursor-pointer z-50" onclick="toggleModal('modal-idpanama')">
                                     <svg class="fill-current text-black" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
                                          viewBox="0 0 18 18">
                                         <path
@@ -437,7 +424,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        2 tickets to the “DAO Retreat Event”
+                                        2 tickets to the “DAO Retreat Event panama”
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
@@ -475,20 +462,50 @@
         </section>
 
     </div>
+
 </main>
 
 
 
-
-    <div class="hidden opacity-25 fixed inset-0 z-40 bg-black" id="modal-id-backdrop"></div>
+    <div class="hidden opacity-25 fixed inset-0 z-40 bg-black" id="modal-care-backdrop"></div>
     <script type="text/javascript">
-        function toggleModal(refugio){
-            document.getElementById(refugio).classList.toggle("hidden");
-            document.getElementById(refugio + "-backdrop").classList.toggle("hidden");
-            document.getElementById(refugio).classList.toggle("flex");
-            document.getElementById(refugio + "-backdrop").classList.toggle("flex");
+
+
+        function toggleModal(modalIDrefugio){
+            document.getElementById(modalIDrefugio).classList.toggle("hidden");
+            document.getElementById(modalIDrefugio + "-backdrop").classList.toggle("hidden");
+            document.getElementById(modalIDrefugio).classList.toggle("flex");
+            document.getElementById(modalIDrefugio + "-backdrop").classList.toggle("flex");
         }
+
+        function toggleModal(modalIDcarenero){
+            document.getElementById(modalIDcarenero).classList.toggle("hidden");
+            document.getElementById(modalIDcarenero + "-backdrop").classList.toggle("hidden");
+            document.getElementById(modalIDcarenero).classList.toggle("flex");
+            document.getElementById(modalIDcarenero + "-backdrop").classList.toggle("flex");
+        }
+
+        function toggleModal(modalIDbocas){
+            document.getElementById(modalIDbocas).classList.toggle("hidden");
+            document.getElementById(modalIDbocas + "-backdrop").classList.toggle("hidden");
+            document.getElementById(modalIDbocas).classList.toggle("flex");
+            document.getElementById(modalIDbocas + "-backdrop").classList.toggle("flex");
+        }
+
+
+        function toggleModal(modalIDpanama){
+            document.getElementById(modalIDpanama).classList.toggle("hidden");
+            document.getElementById(modalIDpanama + "-backdrop").classList.toggle("hidden");
+            document.getElementById(modalIDpanama).classList.toggle("flex");
+            document.getElementById(modalIDpanama + "-backdrop").classList.toggle("flex");
+        }
+
+
+
+
+
     </script>
+
 
 </div>
 
