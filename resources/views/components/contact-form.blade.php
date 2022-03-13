@@ -5045,8 +5045,7 @@ CzAAqYTVOPWO2yYAAAAASUVORK5CYII=" transform="matrix(0.98 0 0 0.98 1024.2817 776.
             </div>
         </div>
     </div>
-    <form method="POST" action="">
-        @csrf
+    <form>
 
         <div>
             <label class="uppercase text-sm text-gray-600 font-boldao" for="name">Full Name</label>
