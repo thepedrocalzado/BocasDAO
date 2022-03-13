@@ -15,7 +15,7 @@
         <link rel="mask-icon" href="{{ asset('img/favicon/safari-pinned-tab.svg')}}" color="#5bbad5">
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="theme-color" content="#ffffff">
-
+        <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1d69968d-d274-4615-9aec-b611433f2616" data-blockingmode="auto" type="text/javascript"></script>
         <link href="{{ asset('css/app.css')}}" rel="stylesheet">
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="{{ asset('js/jquery.scrollTo.js')}}"/>
@@ -93,5 +93,5 @@
     @extends('components/topsection')
     @extends('components/navbar')
     </body>
-
+    <script id="CookieDeclaration" src="https://consent.cookiebot.com/1d69968d-d274-4615-9aec-b611433f2616/cd.js" type="text/javascript" async></script>
 </html>

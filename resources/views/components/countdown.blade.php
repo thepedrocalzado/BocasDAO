@@ -1,5 +1,5 @@
 
-<div class="visible xs:invisible  bg-yellow-600 pt-5 static  pb-5" id="passport">
+<div class="xs:invisible  bg-yellow-600 pt-5 static  pb-5" id="passport">
     <div class="md:max-w-6xl md:mx-auto  ">
         <p class="text-white leading-tight font-boldao text-5xl mb-4 ml-4 text-left justify-left">
             Countdown to open BocasDAO
@@ -8,12 +8,12 @@
     <div class="md:max-w-3xl md:mx-auto ">
         <div class="text-center items-center justify-center content-center mx-auto">
             <div class="flex gap-5 text-center items-center justify-center content-center mx-auto" >
-                <div id="days" class="flex text-[100px] md:text-2lg mr-12 font-boldao text-blackdao">
+                <div id="days" class="flex md:text-[100px] sm:text-4lg mr-12 font-boldao text-blackdao">
                     <span class="ml-22 pl-12"></span>
                 </div>
-                <div id="hours" class="flex text-[100px] mr-12 font-boldao text-blackdao"></div>
-                <div id="minutes" class="flex text-[100px] mr-12 font-boldao text-blackdao"></div>
-                <div id="seconds" class="flex text-[100px] mr-12 font-boldao text-blackdao"></div>
+                <div id="hours" class="flex md:text-[100px] text-xl sm:text-4lg mr-12 font-boldao text-blackdao"></div>
+                <div id="minutes" class="flex md:text-[100px] sm:text-4lg mr-12 font-boldao text-blackdao"></div>
+                <div id="seconds" class="flex md:text-[100px] sm:text-4lg mr-12 font-boldao text-blackdao"></div>
 
 
             </div>
