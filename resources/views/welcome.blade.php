@@ -73,6 +73,10 @@
            font-family: font-lightdao;
        }
 
+       .passport {
+           height: 610px !important;
+       }
+
     </style>
 
     <body class="bg-darkblue">

@@ -12,7 +12,7 @@
 
 <main class="flex flex-wrap gap-12 md:max-w-4xl  items-center justify-center font-outfit mx-auto ">
     <div id="refugio">
-        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="refugio">
+        <section class="passport bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="refugio" >
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -26,11 +26,14 @@
 
             <h1>
                 <div>
-                    <button onclick="toggleModal('modal-idrefugio')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
+                    <p class=" text-white my-4 font-boldao text-2xl">
                         Passport Refugio
-                        <i class="fa-solid fa-circle-info text-dao ml-3 hover:text-white"></i>
-                    </button>
+                    </p>
 
+                </div>
+                <div class="flex mb-5 mx-auto">
+                    <a class="flex px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idrefugio')">Benefits</a>
+                    <a class="flex px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Buy nft</a>
                 </div>
 
             </h1>
@@ -114,10 +117,6 @@
 
                                 </ul>
                             </div>
-                            <!--Footer-->
-                            <div class="flex justify-end pt-2">
-                                <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/10476208371703460535276576839065665727776608392811958092550952984407133126657" class="focus:outline-none px-4 bg-lightgreen p-3 ml-3 rounded-lg font-boldao text-white">View</a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -127,7 +126,7 @@
 
     </div>
     <div id="carenero">
-        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
+        <section class="passport bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -141,11 +140,14 @@
 
             <h1>
                 <div>
-                    <button onclick="toggleModal('modal-idcarenero')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
+                    <p class=" text-white my-4 font-boldao text-2xl">
                         Passport Carenero
-                        <i class="fa-solid fa-circle-info text-dao ml-3 hover:text-white"></i>
-                    </button>
+                    </p>
 
+                </div>
+                <div class="flex mb-5 mx-auto">
+                    <a class="flex px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idcarenero')">Benefits</a>
+                    <a class="flex px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Buy nft</a>
                 </div>
 
             </h1>
@@ -220,10 +222,6 @@
 
                                 </ul>
                             </div>
-                            <!--Footer-->
-                            <div class="flex justify-end pt-2">
-                                <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/10476208371703460535276576839065665727776608392811958092550952984407133126657" class="focus:outline-none px-4 bg-lightgreen p-3 ml-3 rounded-lg font-boldao text-white">View</a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -233,7 +231,7 @@
 
     </div>
     <div id="bocas">
-        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="bocas">
+        <section class="passport bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="bocas">
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -247,11 +245,14 @@
 
             <h1>
                 <div>
-                    <button onclick="toggleModal('modal-idbocas')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
+                    <p class=" text-white my-4 font-boldao text-2xl">
                         Passport Bocas
-                        <i class="fa-solid fa-circle-info text-dao ml-3 hover:text-white"></i>
-                    </button>
+                    </p>
 
+                </div>
+                <div class="flex mb-5 mx-auto">
+                    <a class="flex px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idbocas')">Benefits</a>
+                    <a class="flex px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Buy nft</a>
                 </div>
 
             </h1>
@@ -333,10 +334,6 @@
 
                                 </ul>
                             </div>
-                            <!--Footer-->
-                            <div class="flex justify-end pt-2">
-                                <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/10476208371703460535276576839065665727776608392811958092550952984407133126657" class="focus:outline-none px-4 bg-lightgreen p-3 ml-3 rounded-lg font-boldao text-white">View</a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -346,7 +343,7 @@
 
     </div>
     <div id="panama">
-        <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
+        <section class="passport bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -360,13 +357,15 @@
 
             <h1>
                 <div>
-                    <button onclick="toggleModal('modal-idpanama')" class="block text-white my-4 font-boldao text-2xl hover:text-cyan-400">
+                    <p class=" text-white my-4 font-boldao text-2xl">
                         Passport Panamá
-                        <i class="fa-solid fa-circle-info text-dao ml-3 hover:text-white"></i>
-                    </button>
+                    </p>
 
                 </div>
-
+                <div class="flex mb-5 mx-auto">
+                    <a class="flex px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idpanama')">Benefits</a>
+                    <a class="flex px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Buy nft</a>
+                </div>
             </h1>
 
 
@@ -449,10 +448,6 @@
 
 
                                 </ul>
-                            </div>
-                            <!--Footer-->
-                            <div class="flex justify-end pt-2">
-                                <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/10476208371703460535276576839065665727776608392811958092550952984407133126657" class="focus:outline-none px-4 bg-lightgreen p-3 ml-3 rounded-lg font-boldao text-white">View</a>
                             </div>
                         </div>
                     </div>
