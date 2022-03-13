@@ -1,9 +1,7 @@
 
 
 <div class="md:max-w-6xl md:mx-auto pt-10 pb-10" id="contact">
-
-<div
-    class="max-w-screen-xl mt-24 px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto bg-gray-100 text-gray-900 rounded-lg shadow-lg">
+<div class="max-w-screen-xl mt-24 px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto bg-gray-100 text-gray-900 rounded-lg shadow-lg">
     <div class="flex flex-col justify-between">
         <div>
             <h2 class="text-4xl lg:text-5xl font-boldao leading-tight text-black">Interested…? Let’s discuss!</h2>
@@ -5047,27 +5045,31 @@ CzAAqYTVOPWO2yYAAAAASUVORK5CYII=" transform="matrix(0.98 0 0 0.98 1024.2817 776.
             </div>
         </div>
     </div>
-    <div class="">
+    <form method="post" action="{{route('contact.submit')}}">
+        @csrf
+
         <div>
-            <span class="uppercase text-sm text-gray-600 font-boldao">Full Name</span>
+            <label class="uppercase text-sm text-gray-600 font-boldao" for="name">Full Name</label>
             <input class="w-full bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
-                   type="text" placeholder="">
+                   type="text" name="name" id="name" placeholder="">
         </div>
         <div class="mt-8">
-            <span class="uppercase text-sm text-gray-600 font-boldao">Email</span>
+            <label class="uppercase text-sm text-gray-600 font-boldao" for="email">Email</label>
             <input class="w-full bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
-                   type="text">
+                   type="text" name="email" id="email">
         </div>
         <div class="mt-8">
-            <span class="uppercase text-sm text-gray-600 font-boldao">Message</span>
-            <textarea
-                class="w-full h-32 bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"></textarea>
+            <label class="uppercase text-sm text-gray-600 font-boldao" for="message">Message</label>
+            <input
+                class="w-full h-32 bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" id="message" name="message">
+
+            </input>
         </div>
         <div class="mt-8">
-            <a class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Send message</a>
+            <button class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao uppercase text-white bg-[#1cd1b2] rounded-lg" type="submit" name="submit">Send message</button>
 
         </div>
-    </div>
+    </form>
 </div>
 
 </div>

@@ -40,3 +40,15 @@ Route::get('/passport/bocas', function () {
 Route::get('/passport/panama', function () {
     return view('/components/QR/panama-qr');
 })->name("panama-qr");
+
+Route::post('contact-form/submit', function () {
+     dd(Request::all());
+})->name('contact-form-submit');
+
+
+Route::get('/',
+    'App\Http\Controllers\ContactController@contact')
+    ->name('contact');;
+Route::post('/',
+    'App\Http\Controllers\ContactController@contactSubmit')
+    ->name('contact.submit');
