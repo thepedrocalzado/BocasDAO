@@ -3,9 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="/css/app.css" rel="stylesheet">
-
         <link href="{{ asset('css/app.css')}}" rel="stylesheet">
+        <link href="{{ URL::asset('css/app.css')}}" rel="stylesheet">
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="{{ asset('js/jquery.scrollTo.js')}}"/>
         <link href="https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css" rel="stylesheet">
