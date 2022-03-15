@@ -24,15 +24,14 @@
                                 {{ __('Vibes') }} {{ __('VibesEs') }}
                                 <span class="text-dao leading-tight font-boldao text-2xl">{{ __('Caribbean2') }}</span>
                                 {{ __('VibesEs2') }}
-                                <span class="text-dao leading-tight font-boldao text-xl">{{ __('Fiat') }}</span>
+                                <span class="text-dao leading-tight font-boldao text-2xl">{{ __('Fiat') }}</span>
                             </p>
                         </div>
                         <div class="md:max-w-6xl md:mx-auto text-center mt-5 ">
-                            <p class="text-white leading-tight font-boldao0000 xs:text-lg lg:text-2xl mt-12">
+                            <p class="text-white leading-tight font-boldao xs:text-lg lg:text-2xl mt-12">
                                 {{ __('Passportinfo') }}
                                 <span class="text-dao hover:underline" href="#">
                                     <a href="https://opensea.io/">
-                                        Opensea.
                                     </a>
                                 </span>
                             </p>

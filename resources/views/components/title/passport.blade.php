@@ -42,7 +42,7 @@
             <p class="text-soft-blue font-lightdao text-base">
                 Our most economic <span class="text-dao font-boldao">NFT</span> to enter the <span class="text-dao font-boldao">El Refugio Beach Bungalows</span>. This can be your once in a lifetime vacation, or your first step to form part in the <span class="text-dao font-boldao">BocasDAO</span>.            </p>
 
-            <div class="flex justify-between items-center">
+            <div class="flex justify-between items-center mt-[5.5rem]">
                 <div class="flex text-cyan space-x-2">
                     <img src="{{asset("/img/icons/eth.svg")}}" alt="ethereum icon" />
                     <p class="font-boldao">0,5 ETH</p>
@@ -260,7 +260,7 @@
 
             <p class="text-soft-blue font-lightdao text-base">
                 Wanna spend some more time relaxing in the  <span class="text-dao font-boldao">Caribbean</span>. Two week annually and great community advatages will recharge your batteries. Great surfing, laid back atmosphere, and your crypto friends to party with.
-            <div class="flex justify-between items-center">
+            <div class="flex justify-between items-center  mt-[3.5rem]">
                 <div class="flex text-cyan space-x-2">
                     <img src="{{asset("/img/icons/eth.svg")}}" alt="ethereum icon" />
                     <p class="font-boldao">10 ETH</p>

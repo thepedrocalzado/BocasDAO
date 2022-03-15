@@ -17,7 +17,7 @@
                     If you are all new to Crypto, the first step is to make yourself with some
                     <a class="text-dao hover:underline" href="#">ETH (Etherium, the second largest Crypto currency)</a>
                     . The easiest is to exchange
-                    <a class="text-dao hover:underline" href="#">USD</a>
+                    <a class="hover:text-dao hover:underline" href="#">USD</a>
                     , <a class="text-dao hover:underline" href="#">EUR</a>
                     , or any <a class="text-dao hover:underline" href="#">FIAT</a>
                     currency via credit card or bank transfer at one of the major exchanges like <a class="text-dao hover:underline" href="#">Coinbase</a>
