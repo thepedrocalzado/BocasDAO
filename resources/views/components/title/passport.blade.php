@@ -385,76 +385,76 @@
 
             <hr class=" mt-3" />
 
-            <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="modal-idpanama">
-                <div class="main-modal-refugio fixed w-full h-100 inset-0 z-50 overflow-hidden flex justify-center items-center animated fadeIn faster rounded-xl"
-                     style="background: rgba(0,0,0,.7);">
-                    <div
-                        class="border border-teal-500 shadow-lg modal-container bg-white w-11/12 md:max-w-md mx-auto rounded shadow-lg z-50 overflow-y-auto">
-                        <div class="modal-content py-4 text-left px-6">
-                            <!--Title-->
-                            <div class="flex justify-between items-center pb-3">
-                                <p class="text-2xl font-bold">Header</p>
-                                <button class="cursor-pointer z-50" onclick="toggleModal('modal-idpanama')">
-                                    <svg class="fill-current text-black" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                         viewBox="0 0 18 18">
-                                        <path
-                                            d="M14.53 4.53l-1.06-1.06L9 7.94 4.53 3.47 3.47 4.53 7.94 9l-4.47 4.47 1.06 1.06L9 10.06l4.47 4.47 1.06-1.06L10.06 9z">
-                                        </path>
-                                    </svg>
-                                </button>
-                            </div>
-                            <!--Body-->
-                            <div class="my-5 text-black">
-                                <ul class="list-reset font-boldao text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
-                                    <li class="flex items-center mb-3 text-lg">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
-                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
-                                            /></svg>
-                                        Granted accommodation right during the annual
-                                        “DAO Retreat Event”
-                                    </li>
-                                    <li class="flex items-center mb-3 text-lg">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
-                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
-                                            /></svg>
-                                        2 VIP tickets to the “DAO Retreat Event”
-                                    </li>
-                                    <li class="flex items-center mb-3 text-lg">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
-                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
-                                            /></svg>
-                                        Pre-Opening Invitation for 2 Pax
-                                    </li>
-                                    <li class="flex items-center mb-3 text-lg">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
-                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
-                                            /></svg>
-                                        2 VIP tickets to the Grand Opening Party
-                                    </li>
+        </section>
 
-                                    <li class="flex items-center mb-3 text-lg">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
-                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
-                                            /></svg>
-                                        Voting rights
-                                    </li>
+        <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center rounded-xl" id="modal-idpanama">
+            <div class="main-modal-refugio fixed w-full h-100 inset-0 z-50 overflow-hidden flex justify-center items-center animated fadeIn faster rounded-xl"
+                 style="background: rgba(0,0,0,.7);">
+                <div
+                    class="border border-teal-500 shadow-lg modal-container bg-white w-11/12 md:max-w-md mx-auto rounded shadow-lg z-50 overflow-y-auto">
+                    <div class="modal-content py-4 text-left px-6">
+                        <!--Title-->
+                        <div class="flex justify-between items-center pb-3">
+                            <p class="text-2xl font-bold">Header</p>
+                            <button class="cursor-pointer z-50" onclick="toggleModal('modal-idpanama')">
+                                <svg class="fill-current text-black" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
+                                     viewBox="0 0 18 18">
+                                    <path
+                                        d="M14.53 4.53l-1.06-1.06L9 7.94 4.53 3.47 3.47 4.53 7.94 9l-4.47 4.47 1.06 1.06L9 10.06l4.47 4.47 1.06-1.06L10.06 9z">
+                                    </path>
+                                </svg>
+                            </button>
+                        </div>
+                        <!--Body-->
+                        <div class="my-5 text-black">
+                            <ul class="list-reset font-boldao text-black mb-8 p-8 text-grey-darker rounded shadow-lg">
+                                <li class="flex items-center mb-3 text-lg">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
+                                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                                        /></svg>
+                                    Granted accommodation right during the annual
+                                    “DAO Retreat Event”
+                                </li>
+                                <li class="flex items-center mb-3 text-lg">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
+                                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                                        /></svg>
+                                    2 VIP tickets to the “DAO Retreat Event”
+                                </li>
+                                <li class="flex items-center mb-3 text-lg">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
+                                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                                        /></svg>
+                                    Pre-Opening Invitation for 2 Pax
+                                </li>
+                                <li class="flex items-center mb-3 text-lg">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
+                                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                                        /></svg>
+                                    2 VIP tickets to the Grand Opening Party
+                                </li>
 
-                                    <li class="flex items-center mb-3 text-lg ">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
-                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
-                                            /></svg>
-                                        Access to our exclusive Discord Group
-                                    </li>
+                                <li class="flex items-center mb-3 text-lg">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
+                                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                                        /></svg>
+                                    Voting rights
+                                </li>
+
+                                <li class="flex items-center mb-3 text-lg ">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
+                                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                                        /></svg>
+                                    Access to our exclusive Discord Group
+                                </li>
 
 
-                                </ul>
-                            </div>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
-
-        </section>
+        </div>
 
     </div>
 </main>
