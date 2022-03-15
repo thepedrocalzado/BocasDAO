@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
-        <title>BocasDAO | Make a Island Project DAO with NFT</title>
+        <title>BocasDAO | Your Caribbean NFT getaway!</title>
         <meta name="keywords" content="NFT, crypto, etherium, bitcoin, Blockchain, DAO, crypto island, crypto getaway, crypto hideaway, panama, bocas del toro, Caribbean, beach, Golden visa, residency.">
         <meta name="description" content="BocasDAO is creating a timeshare concept on NFTs with its top tier NFT offering Golden Visas for Panama. The crypto getaway will be developed in Bocas del Toro, Panama.">
         <link rel="canonical" href="{{url()->current()}}"/>
@@ -78,7 +78,7 @@
 
 
 
-       
+
 
     </style>
     <script id="CookieDeclaration" src="https://consent.cookiebot.com/1d69968d-d274-4615-9aec-b611433f2616/cd.js" type="text/javascript" async></script>
@@ -90,7 +90,6 @@
     @extends('components/title/roadmap')
     @extends('components/title/passport')
     @extends('components/content')
-    @extends('components/countdown')
     @extends('components/topsection')
     @extends('components/navbar')
     </body>
