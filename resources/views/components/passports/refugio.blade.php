@@ -1,5 +1,5 @@
 <div id="refugio">
-    <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="refugio">
+    <section class="bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl  " id="refugio">
         <a href="#" class="group block relative rounded-md overflow-hidden">
             <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                 <img

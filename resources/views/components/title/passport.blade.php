@@ -12,7 +12,7 @@
 
 <main class="flex flex-wrap gap-12 md:max-w-4xl  items-center justify-center font-outfit mx-auto ">
     <div id="refugio">
-        <section class="passport bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="refugio" >
+        <section class=" lg:h-[610px] bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="refugio" >
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -126,7 +126,7 @@
 
     </div>
     <div id="carenero">
-        <section class="passport bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
+        <section class="lg:h-[610px] bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -231,7 +231,7 @@
 
     </div>
     <div id="bocas">
-        <section class="passport bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="bocas">
+        <section class="lg:h-[610px] bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl " id="bocas">
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -343,7 +343,7 @@
 
     </div>
     <div id="panama">
-        <section class="passport bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
+        <section class="lg:h-[610px] bg-darkblue p-5 mx-5 rounded-xl max-w-xs shadow-2xl">
             <a href="#" class="group block relative rounded-md overflow-hidden">
                 <div class="invisible group-hover:visible absolute inset-0 bg-cyan-100">
                     <img
@@ -457,7 +457,6 @@
         </section>
 
     </div>
-
 </main>
 
 
