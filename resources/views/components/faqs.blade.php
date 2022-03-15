@@ -14,25 +14,7 @@
                 </summary>
 
                 <div class="info p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
-                    If you are all new to Crypto, the first step is to make yourself with some
-                    <a class="text-dao hover:underline" href="#">ETH (Etherium, the second largest Crypto currency)</a>
-                    . The easiest is to exchange
-                    <a class="hover:text-dao hover:underline" href="#">USD</a>
-                    , <a class="text-dao hover:underline" href="#">EUR</a>
-                    , or any <a class="text-dao hover:underline" href="#">FIAT</a>
-                    currency via credit card or bank transfer at one of the major exchanges like <a class="text-dao hover:underline" href="#">Coinbase</a>
-                    , <a class="text-dao hover:underline" href="#">Binance</a>
-                    , <a class="text-dao hover:underline" href="#">Kraken</a>
-                    , etc.
-                    Once you receive your <a class="text-dao hover:underline" href="#">ETH</a>
-                    in your exchange account, we recommend to transfer the <a class="text-dao hover:underline" href="#">ETH</a>
-                    to your own <a class="text-dao hover:underline" href="#">wallet</a>
-                    .
-                    Since for further transactions a MetaMask wallet comes very handy, this would be our wallet of choice.
-                    After transferring the <a class="text-dao hover:underline" href="#">ETH</a>
-                    to your <a class="text-dao hover:underline" href="#">MetaMask wallet</a>
-                    , you are ready to go. Just click on <a class="text-dao hover:underline" href="#">“get Passport”</a>
-                    to purchase your choice of Passport on <a class="text-dao hover:underline" href="#">OpenSea</a>.
+                    If you are all new to Crypto, the first step is to make yourself with some ETH (Etherium, the second largest Crypto currency) . The easiest is to exchange USD , EUR , or any FIAT currency via credit card or bank transfer at one of the major exchanges like Coinbase , Binance , Kraken , etc. Once you receive your ETH in your exchange account, we recommend to transfer the ETH to your own wallet . Since for further transactions a MetaMask wallet comes very handy, this would be our wallet of choice. After transferring the ETH to your MetaMask wallet , you are ready to go. Just click on “get Passport” to purchase your choice of Passport on OpenSea.
                 </div>
             </details>
 
