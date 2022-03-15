@@ -249,8 +249,8 @@
     }
 
 </style>
-<section class="timeline pb-10">
-    <div class="bg-darkblue pt-10 static " id="roadmap">
+<section class="timeline pb-20 pt-10" id="roadmap">
+    <div class="bg-darkblue pt-10 static " >
         <div class="md:max-w-6xl md:mx-auto text-left justify-left ">
             <p class="text-white leading-tight font-boldao text-5xl mb-10 ml-4">
                 Road Map
@@ -259,7 +259,7 @@
     </div>
     <ul>
         <li>
-            <div class="rounded-3xl	">
+            <div class="rounded-3xl	shadow-xl shadow-cyan-500/50 ">
                 <time class="font-boldao uppercase">
                     <p class="text-3xl">
                         Prior to 2022
@@ -271,7 +271,7 @@
             </div>
         </li>
         <li>
-            <div class="rounded-3xl	">
+            <div class="rounded-3xl shadow-xl shadow-cyan-500/50	">
                 <time class="font-boldao uppercase">
                     <p class="text-3xl">
                         Early 2022
@@ -286,7 +286,7 @@
             </div>
         </li>
         <li>
-            <div class="rounded-3xl	">
+            <div class="rounded-3xl	shadow-xl shadow-cyan-500/50">
                 <time class="font-boldao uppercase">
                     <p class="text-3xl">
                         Mid - late 2022
@@ -297,7 +297,7 @@
         </li>
 
         <li>
-            <div class="rounded-3xl	">
+            <div class="rounded-3xl shadow-xl shadow-cyan-500/50	">
                 <time class="font-boldao uppercase">
                     <p class="text-3xl">
                         Late 2023
