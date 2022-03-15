@@ -1136,7 +1136,7 @@
                      height="auto" viewBox="0 0 2000 1200" enable-background="new 0 0 2000 1200" xml:space="preserve">
 		<g>
 
-            <line fill="none" stroke="#FF4D6B" stroke-width="3.4927" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+            <line fill="none" stroke="#1cd1b2" stroke-width="3.4927" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
                   x1="355" y1="952" x2="1430.3" y2="315.4" />
         </g>
                     <g>
@@ -4925,18 +4925,18 @@ CzAAqYTVOPWO2yYAAAAASUVORK5CYII=" transform="matrix(0.98 0 0 0.98 1024.2817 776.
                             <polygon class="particlespoly" opacity="0.75" fill="url(#SVGID_148_)" enable-background="new    " points="1123.5,708.5 1057.5,749 887.2,638.9
 			954.8,596.8 		" />
                             <g id="bottomparticles">
-                                <circle fill="#FFFFFF" cx="942.6" cy="693.5" r="1.6" />
-                                <circle fill="#FFFFFF" cx="931.6" cy="675.3" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1000.1" cy="737.7" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1118.8" cy="719.1" r="1.6" />
-                                <circle fill="#FFFFFF" cx="936.4" cy="658.5" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1017.4" cy="786.5" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1090" cy="769.7" r="1.6" />
+                                <circle fill="#1cd1b2" cx="942.6" cy="693.5" r="1.6" />
+                                <circle fill="#1cd1b2" cx="931.6" cy="675.3" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1000.1" cy="737.7" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1118.8" cy="719.1" r="1.6" />
+                                <circle fill="#1cd1b2" cx="936.4" cy="658.5" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1017.4" cy="786.5" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1090" cy="769.7" r="1.6" />
                                 <circle fill="#FFFFFF" cx="1004.9" cy="672.1" r="1.6" />
-                                <circle fill="#FFFFFF" cx="957.9" cy="615.2" r="1.6" />
-                                <circle fill="#FFFFFF" cx="948" cy="651.1" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1063.7" cy="686.7" r="1.6" />
-                                <circle fill="#FFFFFF" cx="904.7" cy="691.9" r="3.2" />
+                                <circle fill="#1cd1b2" cx="957.9" cy="615.2" r="1.6" />
+                                <circle fill="#1cd1b2" cx="948" cy="651.1" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1063.7" cy="686.7" r="1.6" />
+                                <circle fill="#1cd1b2" cx="904.7" cy="691.9" r="3.2" />
                             </g>
 
                             <linearGradient id="SVGID_149_" gradientUnits="userSpaceOnUse" x1="608.2545" y1="1006.7597" x2="591.3518" y2="855.3317" gradientTransform="matrix(0.3592 -0.3065 -1.2019 -0.6834 1880.408 1551.1382)">
@@ -4991,18 +4991,18 @@ CzAAqYTVOPWO2yYAAAAASUVORK5CYII=" transform="matrix(0.98 0 0 0.98 1024.2817 776.
                             <polygon class="particlespoly" opacity="0.75" fill="url(#SVGID_153_)" enable-background="new    " points="1441.5,519.5 1375.5,560 1205.2,449.9
 			1272.8,407.8 		" />
                             <g id="bottomparticles2">
-                                <circle fill="#FFFFFF" cx="1260.6" cy="504.5" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1249.6" cy="486.3" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1318.1" cy="548.7" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1436.8" cy="530.1" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1254.4" cy="469.5" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1335.4" cy="597.5" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1408" cy="580.7" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1322.9" cy="483.1" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1275.9" cy="426.2" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1266" cy="462.1" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1381.7" cy="497.7" r="1.6" />
-                                <circle fill="#FFFFFF" cx="1222.7" cy="502.9" r="3.2" />
+                                <circle fill="#1cd1b2" cx="1260.6" cy="504.5" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1249.6" cy="486.3" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1318.1" cy="548.7" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1436.8" cy="530.1" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1254.4" cy="469.5" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1335.4" cy="597.5" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1408" cy="580.7" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1322.9" cy="483.1" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1275.9" cy="426.2" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1266" cy="462.1" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1381.7" cy="497.7" r="1.6" />
+                                <circle fill="#1cd1b2" cx="1222.7" cy="502.9" r="3.2" />
                             </g>
 
                             <linearGradient id="SVGID_154_" gradientUnits="userSpaceOnUse" x1="1332.3284" y1="958.5676" x2="1315.4257" y2="807.1397"

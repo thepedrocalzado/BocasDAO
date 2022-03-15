@@ -278,7 +278,7 @@
                     </p>
                 </time>
                     <p class="font-boldao">NFT sale</p>
-                    <p class="font-boldao">Legal compliance</p>
+                    <p class="font-boldao">Legal framework</p>
                     <p class="font-boldao">Over water concession</p>
                     <p class="font-boldao">Local building permit</p>
                     <p class="font-boldao">Contract with Architects</p>
