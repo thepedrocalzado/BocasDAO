@@ -10,10 +10,10 @@
                 <h3 class="mb-6 text-sm font-semibold uppercase text-white">{{ __('Resources') }}</h3>
                 <ul>
                     <li class="mb-4">
-                        <a href="https://flowbite.com" target="_blank" class="hover:underline text-gray-400">Flowbite</a>
+                        <a href="https://flowbite.com" target="_blank" class="hover:underline text-gray-400">{{ __('Road Map') }}</a>
                     </li>
                     <li>
-                        <a href="https://tailwindcss.com/" target="_blank" rel="nofollow" class=" hover:underline text-gray-400">Tailwind CSS</a>
+                        <a href="https://tailwindcss.com/" target="_blank" rel="nofollow" class=" hover:underline text-gray-400">{{ __('FAQS') }}</a>
                     </li>
                 </ul>
             </div>
