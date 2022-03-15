@@ -76,8 +76,12 @@
            font-family: font-lightdao;
        }
 
-       .passport {
-           height: 610px !important;
+
+
+       @media (max-width: 768px) {
+           .passport {
+               height: 610px !important;
+           }
        }
 
     </style>
