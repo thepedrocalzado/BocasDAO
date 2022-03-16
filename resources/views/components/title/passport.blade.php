@@ -4,6 +4,8 @@
 
     <div class="bg-lightgreen pt-10 static " id="passport">
         <div class="md:max-w-6xl md:mx-auto text-left justify-left ">
+                    @extends('components/countdown')
+
             <p class="text-white leading-tight font-boldao text-5xl mb-10 ml-4">
                 The Passport of your choice...
             </p>

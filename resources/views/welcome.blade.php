@@ -25,6 +25,7 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
         <script src="https://cdn.tailwindcss.com"></script>
         <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+        <link href="https://cdn.jsdelivr.net/npm/daisyui@2.8.0/dist/full.css" rel="stylesheet" type="text/css" />
 
         <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
         <!-- Fonts -->
@@ -89,6 +90,8 @@
     @extends('components/faqs')
     @extends('components/title/roadmap')
     @extends('components/title/passport')
+        @extends('components/countdown')
+
     @extends('components/content')
     @extends('components/topsection')
     @extends('components/navbar')
