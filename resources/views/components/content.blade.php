@@ -28,7 +28,7 @@
                             </p>
                         </div>
                         <div class="md:max-w-6xl md:mx-auto text-center mt-5 ">
-                            <p class="text-white leading-tight font-boldao xs:text-lg lg:text-2xl mt-6">
+                            <p class="text-white leading-tight font-boldao xs:text-lg lg:text-3xl mt-6 ">
                                 {{ __('Passportinfo') }}
                                 <p class="text-dao font-boldao text-3xl mt-4">
                                     01.05.2022
