@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
-        <title>BocasDAO | Your Caribbean NFT getaway!</title>
+        <title>BocasDAO | Your Caribbean NFT getaway! | Get Passport now</title>
         <meta name="keywords" content="NFT, crypto, etherium, bitcoin, Blockchain, DAO, crypto island, crypto getaway, crypto hideaway, panama, bocas del toro, Caribbean, beach, Golden visa, residency.">
         <meta name="description" content="BocasDAO is creating a timeshare concept on NFTs with its top tier NFT offering Golden Visas for Panama. The crypto getaway will be developed in Bocas del Toro, Panama.">
         <link rel="canonical" href="{{url()->current()}}"/>
@@ -24,12 +24,20 @@
         <script src="https://use.fontawesome.com/5a61dfd9ab.js"></script>
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
         <script src="https://cdn.tailwindcss.com"></script>
-        <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
         <link href="https://cdn.jsdelivr.net/npm/daisyui@2.8.0/dist/full.css" rel="stylesheet" type="text/css" />
-
         <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-K3Z5W3HDH7"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-K3Z5W3HDH7');
+        </script>
 
     </head>
     <script>

@@ -4,8 +4,6 @@
 
     <div class="bg-lightgreen pt-10 static " id="passport">
         <div class="md:max-w-6xl md:mx-auto text-left justify-left ">
-                    @extends('components/countdown')
-
             <p class="text-white leading-tight font-boldao text-5xl mb-10 ml-4">
                 The Passport of your choice...
             </p>
@@ -28,7 +26,7 @@
 
             <h1>
                 <div>
-                    <p class=" text-white my-4 font-boldao text-2xl">
+                    <p class=" text-white my-4 font-boldao text-2xl text-center">
                         Passport Refugio
                     </p>
 
@@ -142,7 +140,7 @@
 
             <h1>
                 <div>
-                    <p class=" text-white my-4 font-boldao text-2xl">
+                    <p class=" text-white my-4 font-boldao text-2xl text-center">
                         Passport Carenero
                     </p>
 
@@ -247,7 +245,7 @@
 
             <h1>
                 <div>
-                    <p class=" text-white my-4 font-boldao text-2xl">
+                    <p class=" text-white my-4 font-boldao text-2xl text-center">
                         Passport Bocas
                     </p>
 
@@ -359,7 +357,7 @@
 
             <h1>
                 <div>
-                    <p class=" text-white my-4 font-boldao text-2xl">
+                    <p class=" text-white my-4 font-boldao text-2xl text-center">
                         Passport Panamá
                     </p>
 
@@ -378,7 +376,7 @@
             <div class="flex justify-between items-center mt-4">
                 <div class="flex text-cyan space-x-2">
                     <img src="{{asset("/img/icons/eth.svg")}}" alt="ethereum icon" />
-                    <p class="font-boldao">0,5 ETH</p>
+                    <p class="font-boldao">100 ETH</p>
                 </div>
                 <div class="flex items-center text-soft-blue space-x-2 whitespace-nowrap">
                     <p class="font-boldao">15 <p class="text-xs font-boldao uppercase">units</p></p>
