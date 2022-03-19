@@ -8,7 +8,7 @@
     <div x-data="{ open: false }" class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div class="p-4 flex flex-row items-center justify-between">
             <a href="{{ route('welcome') }}" class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">
-                <img src="{{asset('/img/logo.svg')}}">
+                <img src="{{ asset('/img/logo.svg')}}">
             </a>
             <a class="visible md:invisible px-4 py-2 mt-2 ml-5 text-xs font-semibold text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase bold" href="#">{{ __('Passport') }}</a>
             <div class=" xs:invisible relative inline-block text-left ">
