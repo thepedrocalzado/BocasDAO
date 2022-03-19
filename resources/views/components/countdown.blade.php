@@ -1,6 +1,6 @@
 <div class="flex items-center justify-center px-5 py-5 pb-10" x-data="beer()" x-init="start()">
     <div class="text-yellow-100">
-        <h1 class="text-4xl text-center mb-3 font-boldao text-white">NFT sale start</h1>
+        <h1 class="text-4xl text-center mb-3 font-boldao text-white">NFT sale start in</h1>
         <div class="text-6xl text-center flex w-full items-center justify-center">
             <div class="w-24 mx-1 p-2 bg-white text-dao rounded-lg">
                 <div class="font-mono leading-none" x-text="days">00</div>

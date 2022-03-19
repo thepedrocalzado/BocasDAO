@@ -4528,7 +4528,8 @@
             </div>
         </div>
     </div>
-    <form>
+
+    <form method="POST" action="contact.submit">
 
         <div>
             <label class="uppercase text-sm text-gray-600 font-boldao" for="name">Full Name</label>
@@ -4542,12 +4543,13 @@
         </div>
         <div class="mt-8">
             <label class="uppercase text-sm text-gray-600 font-boldao" for="message">Message</label>
-            <textarea class="w-full h-32 bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" id="msg" name="msg"> </textarea>
+            <textarea class="w-full h-32 bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" id="message" name="message"> </textarea>
         </div>
 
         <div class="mt-8">
             <button class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao uppercase text-white bg-[#1cd1b2] rounded-lg" type="submit" name="submit">Send message</button>
         </div>
+
     </form>
 </div>
 

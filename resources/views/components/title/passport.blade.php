@@ -370,7 +370,7 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most desired NFT includes the processing of a permanent residency in Panama for citizens of <a class=" text-dao hover:underline font-boldao uppercase" href="#" >Paises Amigos</a>, and in case you want to change your fiscal domicile to Panama, we include in this NFT the right of lodging for 180 days per year.
+                Our most desired NFT includes the processing of a permanent residency in Panama for citizens of <a class=" text-dao hover:underline font-boldao uppercase" href="#paises-amigos" >Paises Amigos</a>, and in case you want to change your fiscal domicile to Panama, we include in this NFT the right of lodging for 180 days per year.
             </p>
 
             <div class="flex justify-between items-center mt-4">

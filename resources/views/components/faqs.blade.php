@@ -1,6 +1,6 @@
-<div class="bg-lightgreen pt-5 pb-5" id="faqs">
+<div class="bg-lightgreen pt-5 pb-5" id="faqs" >
 
-<div class=" faqs flex flex-wrap md:max-w-6xl md:mx-auto sm:mb-2 -mx-2 pb-10 " >
+<div class=" faqs flex flex-wrap md:max-w-6xl md:mx-auto sm:mb-2 -mx-2 pb-10 " id="paises-amigos" >
     <div class="w-full px-4 py-2">
         <p class="text-white leading-tight font-boldao text-5xl mb-10 ml-4 pt-10 pb-10">
             Frequently Asked Questions
@@ -60,6 +60,68 @@
                 <span class="text-dao">Bocas del Toro is classified as one of the top priorities in the countries tourism development plan.</span>
 
                 Bocas del Toro can be reached by plane from Panama City and San Jose, Costa Rica. Connections by ferry and bus are also available.
+        </details>
+
+        <details class="flex mb-4 max-w-3xl mx-auto" >
+            <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
+                What are "Países Amigos"?
+            </summary>
+
+            <div class=" p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
+                The "Países Amigos" are a group of countries including:
+                <p class="mt-5">
+                    Andorra, Argentina,
+    Australia,
+    Austria,
+    Belgium,
+    Brazil,
+    Canada,
+    Chile,
+    Costa Rica,
+    Croatia,
+    Cyprus,
+    Czech Republic,
+    Denmark,
+    Estonia,
+    Finland,
+    France,
+    Germany,
+    Great Britain,
+    Greece,
+    Hong Kong,
+    Hungary,
+    Ireland,
+    Israel,
+    Japan,
+    Latvia,
+    Liechtenstein,
+    Lithuania,
+    Luxembourg,
+    Malta,
+    Mexico,
+    Monaco,
+    Montenegro,
+    Netherlands,
+    New Zealand,
+    Norway,
+    Paraguay,
+    Poland,
+    Portugal
+    Republic of Korea,
+    San Marino,
+    Serbia,
+    Singapore,
+    Slovakia,
+    South Africa,
+    Spain,
+    Sweden,
+    Switzerland,
+    Taiwan,
+    Uruguay,
+    USA.
+                </p>
+
+            </div>
         </details>
 
 
