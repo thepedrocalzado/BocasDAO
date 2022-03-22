@@ -1,23 +1,24 @@
 <div class="flex items-center justify-center px-5 py-5 pb-10" x-data="beer()" x-init="start()">
     <div class="text-yellow-100">
-        <h1 class="text-4xl text-center mb-3 font-boldao text-white">NFT sale start in</h1>
+        <h1 class="text-4xl text-center mb-3 font-boldao text-white">{{ __('Start') }}</h1>
         <div class="text-6xl text-center flex w-full items-center justify-center">
             <div class="w-24 mx-1 p-2 bg-white text-dao rounded-lg">
                 <div class="font-mono leading-none" x-text="days">00</div>
-                <div class="font-lightdao uppercase text-sm leading-none text-blackdao">Days</div>
+                <div class="font-lightdao uppercase text-sm leading-none text-blackdao">{{ __('Days') }}</div>
             </div>
             <div class="w-24 mx-1 p-2 bg-white text-dao rounded-lg">
                 <div class="font-mono leading-none" x-text="hours">00</div>
-                <div class="font-lightdao uppercase text-sm leading-none text-blackdao">Hours</div>
+                <div class="font-lightdao uppercase text-sm leading-none text-blackdao">{{ __('Hours') }}</div>
             </div>
             <div class="w-24 mx-1 p-2 bg-white text-dao rounded-lg">
                 <div class="font-mono leading-none" x-text="minutes">00</div>
-                <div class="font-lightdao uppercase text-sm leading-none text-blackdao">Minutes</div>
+                <div class="font-lightdao uppercase text-sm leading-none text-blackdao">{{ __('Minutes') }}</div>
             </div>
             <div class="w-24 mx-1 p-2 bg-white text-dao rounded-lg">
                 <div class="font-mono leading-none" x-text="seconds">00</div>
-                <div class="font-lightdao uppercase text-sm leading-none text-blackdao">Seconds</div>
+                <div class="font-lightdao uppercase text-sm leading-none text-blackdao">{{ __('Segundos') }}</div>
             </div>
+
         </div>
     </div>
 </div>

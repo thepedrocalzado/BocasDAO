@@ -9,7 +9,7 @@
                 </div>
                 <div class="md:flex md:flex-wrap">
                     <div class="md:w-1/2 relative">
-                        <img src="{{asset('/img/content/island-01.svg')}}">
+                        <img src="{{asset('/img/content/island-222.svg')}}">
 
                     </div>
                     <div class="md:w-1/2 text-center md:text-left">

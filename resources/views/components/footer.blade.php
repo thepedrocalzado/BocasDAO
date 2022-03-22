@@ -39,7 +39,7 @@
                 <h3 class="mb-6 text-sm font-semibold uppercase text-white">{{ __('Legal') }}</h3>
                 <ul>
                     <li class="mb-4">
-                        <a href="{{ route('terms') }}"  class=" hover:underline text-gray-400">{{ __('terms') }}
+                        <a href="{{ route('terms') }}"  class=" hover:underline text-gray-400">{{ __('Terms') }}
                         </a>
                     </li>
                 </ul>
