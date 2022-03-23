@@ -56,7 +56,7 @@
                 <div class=" relative inline-block text-left">
 
                         <div class="dropdown inline-block hidden md:block">
-                            <button class="bg-gray-300 text-gray-700 font-semibold px-3 mt-2 rounded inline-flex items-center">
+                            <button class="bg-gray-300 text-gray-700 font-semibold px-3 p-1 mt-2 rounded inline-flex items-center">
                                 <span class="mr-1">
                                     <i class="fas fa-globe"></i>
                                 </span>
