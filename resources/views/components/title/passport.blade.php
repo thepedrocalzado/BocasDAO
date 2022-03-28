@@ -135,7 +135,7 @@
                         alt="eye icon"
                     />
                 </div>
-                <img src="{{asset("/img/passports/caranero.svg")}}" alt="equilibrium" />
+                <img src="{{asset("/img/passports/caranero.svg")}}" alt="caranero" />
             </a>
 
             <h1>
