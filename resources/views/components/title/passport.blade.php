@@ -21,7 +21,7 @@
                         alt="eye icon"
                     />
                 </div>
-                <img src="{{asset("/img/passports/refugio.jpg")}}" alt="equilibrium" />
+                <img src="{{asset("/img/passports/refugio.svg")}}" alt="equilibrium" />
             </a>
 
             <h1>
@@ -135,7 +135,7 @@
                         alt="eye icon"
                     />
                 </div>
-                <img src="{{asset("/img/passports/refugio.jpg")}}" alt="equilibrium" />
+                <img src="{{asset("/img/passports/caranero.svg")}}" alt="equilibrium" />
             </a>
 
             <h1>
@@ -240,7 +240,7 @@
                         alt="eye icon"
                     />
                 </div>
-                <img src="{{asset("/img/passports/refugio.jpg")}}" alt="equilibrium" />
+                <img src="{{asset("/img/passports/bocas.svg")}}" alt="equilibrium" />
             </a>
 
             <h1>
@@ -352,7 +352,7 @@
                         alt="eye icon"
                     />
                 </div>
-                <img src="{{asset("/img/passports/refugio.jpg")}}" alt="equilibrium" />
+                <img src="{{asset("/img/passports/panama.svg")}}" alt="equilibrium" />
             </a>
 
             <h1>
