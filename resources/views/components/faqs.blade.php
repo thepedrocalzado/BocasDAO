@@ -48,77 +48,28 @@
         </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto">
-                <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
-                Why Bocas del Toro?
+            <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
+                 {{ __('Faqs-5') }}
             </summary>
 
             <div class=" p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
-                Bocas del Toro consists of nine main islands and more than 200 keys. The islands are famous for their beaches, bays, wildlife, and the relaxed way of their people’s life. The province has a total population of approximately 126,000 people. Bocas del Toro borders the Caribbean Sea to the north, sharing the border with Costa Rica.
+                {{ __('Faqs-5-desc') }}
+                <span class="text-dao">
+                {{ __('Faqs-5-desc-1') }}
+                </span>
+                {{ __('Faqs-5-desc-2') }}
 
-                Bocas del Toro has been a beach destination for Panamanians for many years. In addition, lately many tourists from Europe and America also visit this beautiful hideaway. Bocas has experienced high growth rates during the last years and is expected to turn into the main tourist destination outside the Panama City area.
-
-                <span class="text-dao">Bocas del Toro is classified as one of the top priorities in the countries tourism development plan.</span>
-
-                Bocas del Toro can be reached by plane from Panama City and San Jose, Costa Rica. Connections by ferry and bus are also available.
         </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto" >
             <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
-                What are "Países Amigos"?
+             {{ __('Faqs-6') }}
             </summary>
 
             <div class=" p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
-                The "Países Amigos" are a group of countries including:
+                 {{ __('Faqs-6-desc') }}
                 <p class="mt-5">
-                    Andorra, Argentina,
-    Australia,
-    Austria,
-    Belgium,
-    Brazil,
-    Canada,
-    Chile,
-    Costa Rica,
-    Croatia,
-    Cyprus,
-    Czech Republic,
-    Denmark,
-    Estonia,
-    Finland,
-    France,
-    Germany,
-    Great Britain,
-    Greece,
-    Hong Kong,
-    Hungary,
-    Ireland,
-    Israel,
-    Japan,
-    Latvia,
-    Liechtenstein,
-    Lithuania,
-    Luxembourg,
-    Malta,
-    Mexico,
-    Monaco,
-    Montenegro,
-    Netherlands,
-    New Zealand,
-    Norway,
-    Paraguay,
-    Poland,
-    Portugal
-    Republic of Korea,
-    San Marino,
-    Serbia,
-    Singapore,
-    Slovakia,
-    South Africa,
-    Spain,
-    Sweden,
-    Switzerland,
-    Taiwan,
-    Uruguay,
-    USA.
+                    {{ __('Faqs-6-desc-1') }}
                 </p>
 
             </div>
