@@ -27,15 +27,17 @@
             <h1>
                 <div>
                     <p class=" text-white my-4 font-boldao text-2xl text-center">
-                        Passport Refugio
+                        {{ __('Passport-refugio') }}
                     </p>
-
                 </div>
                 <div class="flex mb-5 mx-auto justify-center items-center text-center">
-                    <a class="flex px-4 py-2 mt-2 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idrefugio')">Benefits</a>
-                    <a class="flex px-4 py-2 mt-2 ml-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Buy nft</a>
+                    <a class="flex px-4 py-2 mt-2 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idrefugio')">
+                    {{ __('Benefits') }}
+                    </a>
+                    <a class="flex px-4 py-2 mt-2 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">
+                    {{ __('Buy') }}
+                    </a>
                 </div>
-
             </h1>
 
 
@@ -48,7 +50,7 @@
                     <p class="font-boldao">0,5 ETH</p>
                 </div>
                 <div class="flex items-center text-soft-blue space-x-2 whitespace-nowrap">
-                    <p class="font-boldao">500 <p class="text-xs font-boldao uppercase">units</p></p>
+                    <p class="font-boldao">500 <p class="text-xs font-boldao uppercase">{{ __('Units') }}</p></p>
                 </div>
             </div>
 
@@ -141,13 +143,18 @@
             <h1>
                 <div>
                     <p class=" text-white my-4 font-boldao text-2xl text-center">
-                        Passport Carenero
+                     {{ __('Passport-carenero') }}
+
                     </p>
 
                 </div>
                 <div class="flex mb-5 mx-auto justify-center">
-                    <a class="flex px-4 py-2 mt-2 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idcarenero')">Benefits</a>
-                    <a class="flex px-4 py-2 mt-2 ml-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Buy nft</a>
+                    <a class="flex px-4 py-2 mt-2 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idcarenero')">
+                      {{ __('Benefits') }}
+                    </a>
+                    <a class="flex px-4 py-2 mt-2 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">
+                      {{ __('Buy') }}
+                    </a>
                 </div>
 
             </h1>
@@ -162,7 +169,7 @@
                     <p class="font-boldao">5 ETH</p>
                 </div>
                 <div class="flex items-center text-soft-blue space-x-2 whitespace-nowrap">
-                    <p class="font-boldao">200 <p class="text-xs font-boldao uppercase">units</p></p>
+                    <p class="font-boldao">200 <p class="text-xs font-boldao uppercase">{{ __('Units') }}</p></p>
                 </div>
             </div>
 
@@ -246,17 +253,19 @@
             <h1>
                 <div>
                     <p class=" text-white my-4 font-boldao text-2xl text-center">
-                        Passport Bocas
+                     {{ __('Passport-bocas') }}
                     </p>
 
                 </div>
-                <div class="flex mb-5 mx-auto justify-center">
-                    <a class="flex px-4 py-2 mt-2 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idbocas')">Benefits</a>
-                    <a class="flex px-4 py-2 mt-2 ml-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Buy nft</a>
+                <div class="flex mb-5 m-3 mx-auto justify-center">
+                    <a class="flex px-4 py-2 mt-2 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idbocas')">
+                    {{ __('Benefits') }}
+                    </a>
+                    <a class="flex px-4 py-2 mt-2 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">
+                     {{ __('Buy') }}
+                    </a>
                 </div>
-
             </h1>
-
 
             <p class="text-soft-blue font-lightdao text-base">
                 Wanna spend some more time relaxing in the  <span class="text-dao font-boldao">Caribbean</span>. Two week annually and great community advatages will recharge your batteries. Great surfing, laid back atmosphere, and your crypto friends to party with.
@@ -266,7 +275,7 @@
                     <p class="font-boldao">10 ETH</p>
                 </div>
                 <div class="flex items-center text-soft-blue space-x-2 whitespace-nowrap">
-                    <p class="font-boldao">100 <p class="text-xs font-boldao uppercase">units</p></p>
+                    <p class="font-boldao">100 <p class="text-xs font-boldao uppercase">{{ __('Units') }}</p></p>
                 </div>
             </div>
 
@@ -358,13 +367,17 @@
             <h1>
                 <div>
                     <p class=" text-white my-4 font-boldao text-2xl text-center">
-                        Passport Panamá
+                        {{ __('Passport-panama') }}
                     </p>
 
                 </div>
                 <div class="flex mb-5 mx-auto justify-center">
-                    <a class="flex px-4 py-2 mt-2 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idpanama')">Benefits</a>
-                    <a class="flex px-4 py-2 mt-2 ml-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">Buy nft</a>
+                    <a class="flex px-4 py-2 mt-2 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" onclick="toggleModal('modal-idpanama')">
+                        {{ __('Benefits') }}
+                    </a>
+                    <a class="flex px-4 py-2 mt-2 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">
+                        {{ __('Buy') }}
+                    </a>
                 </div>
             </h1>
 
@@ -379,7 +392,7 @@
                     <p class="font-boldao">100 ETH</p>
                 </div>
                 <div class="flex items-center text-soft-blue space-x-2 whitespace-nowrap">
-                    <p class="font-boldao">15 <p class="text-xs font-boldao uppercase">units</p></p>
+                    <p class="font-boldao">15 <p class="text-xs font-boldao uppercase">{{ __('Units') }}</p></p>
                 </div>
             </div>
 
