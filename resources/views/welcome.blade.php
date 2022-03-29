@@ -100,7 +100,6 @@
 @extends('components/faqs')
 @extends('components/title/roadmap')
 @extends('components/title/passport')
-@extends('components/countdown')
 @extends('components/content')
 @extends('components/topsection')
 @extends('components/navbar')

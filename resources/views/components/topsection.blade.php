@@ -9,14 +9,14 @@
                   {{ __('Present') }}
               </h1>
 
-              <p class="text-white md:text-2xl md:pr-48 sm:text-6xl font-lightdao">
+              <p class="text-white md:text-2xl md:pr-48 sm:text-6xl font-boldao">
                   {{ __('Presentinfo') }}
               </p>
                 <p class="text-blackdao md:text-2xl md:pr-48 text-right font-lightdao italic">
                     {{ __('Refugee') }}
                 </p>
             </div>
-            <div class="md:w-1/2 relative animate-pulse ">
+            <div class="md:w-1/2 relative">
                 <img class="w-100 " src="{{asset('/img/content/island-22.svg')}}">
             </div>
           </div>

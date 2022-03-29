@@ -10,10 +10,10 @@
             <a href="{{ route('welcome') }}" class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">
                 <img src="{{ asset('/img/logo.svg')}}">
             </a>
-            <a class="visible md:invisible px-4 py-2 mt-2 ml-5 text-xs font-semibold text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase bold" href="#">{{ __('Passport') }}</a>
+            <a class="visible md:invisible px-4 py-2 mt-2 ml-5 text-xs font-semibold text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase bold" href="#passport">{{ __('Passport') }}</a>
             <div class=" xs:invisible relative inline-block text-left ">
                 <div class="dropdown inline-block visible lg:invisible">
-                    <button class="bg-gray-300 text-gray-700 font-semibold px-3 mt-2 rounded inline-flex items-center">
+                    <button class="bg-gray-300 text-gray-700 font-semibold px-3 mt-2 p-1 rounded inline-flex items-center">
                                 <span class="mr-1">
                                     <i class="fas fa-globe"></i>
                                 </span>
@@ -47,12 +47,11 @@
             </button>
         </div>
         <nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow pb-4 md:pb-0 hidden md:flex md:justify-end md:flex-row">
-            <a class="px-4 py-2 mt-2 text-sm font-semibold text-white bg-transparent  rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-boldao" href="#passport" >{{ __('Passport') }}</a>
             <a class="px-4 py-2 mt-2 text-sm font-semibold text-white bg-transparent  rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-boldao" href="#roadmap">{{ __('Road Map') }}</a>
             <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg text-white dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-boldao" href="#discord">{{ __('Join the community') }}</a>
             <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg text-white dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-boldao" href="#faqs">{{ __('Faqs') }}</a>
             <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg text-white dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-boldao" href="#contact">{{ __('Contact') }}</a>
-            <a class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#">{{ __('Get your passport') }}</a>
+            <a class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao text-white bg-lightgreen  rounded-lg dark-mode:bg-gray-700 dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline uppercase font-bold absolute sticky" href="#passport">{{ __('Get your passport') }}</a>
                 <div class=" relative inline-block text-left">
 
                         <div class="dropdown inline-block hidden md:block">
