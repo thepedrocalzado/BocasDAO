@@ -43,6 +43,5 @@ Route::get('/passport/panama', function () {
 
 
 Route::get('/telegram', function () {
-  $url = 'https://t.me/bocasdao';
-  return Redirect::to($url);
-})->name("telegram");;
+    return Redirect::to('https://t.me/bocasdao');
+})->name("telegram");
