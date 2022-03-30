@@ -42,3 +42,7 @@ Route::get('/passport/panama', function () {
 })->name("panama-qr");
 
 
+Route::get('/telegram', function () {
+  $url = 'https://t.me/bocasdao';
+  return Redirect::to($url);
+})->name("telegram");;
