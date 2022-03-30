@@ -1,21 +1,35 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="/css/app.css" rel="stylesheet">
-
-        <link href="{{ asset('css/app.css')}}" rel="stylesheet">
-        <link href="https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css" rel="stylesheet">
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css" rel="stylesheet">
-        <script src="https://use.fontawesome.com/5a61dfd9ab.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-        <script src="https://cdn.tailwindcss.com"></script>
-        <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
-
-
-
-        <title>Terms & Conditions</title>
+        <title>BocasDAO | Terms & Conditions</title>
+            <meta name="keywords"
+                  content="NFT, crypto, etherium, bitcoin, Blockchain, DAO, crypto island, crypto getaway, crypto hideaway, panama, bocas del toro, Caribbean, beach, Golden visa, residency.">
+            <meta name="description"
+                  content="BocasDAO is creating a timeshare concept on NFTs with its top tier NFT offering Golden Visas for Panama. The crypto getaway will be developed in Bocas del Toro, Panama.">
+            <link rel="canonical" href="{{url()->current()}}"/>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link href="{{ asset('/css/app.css')}}" rel="stylesheet">
+            <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('img/favicon/apple-touch-icon.png')}}">
+            <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('img/favicon/favicon-32x32.png')}}">
+            <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/favicon/favicon-16x16.png')}}">
+            <link rel="manifest" href="{{ asset('img/favicon/site.webmanifest')}}">
+            <link rel="mask-icon" href="{{ asset('img/favicon/safari-pinned-tab.svg')}}" color="#5bbad5">
+            <meta name="msapplication-TileColor" content="#da532c">
+            <meta name="theme-color" content="#ffffff">
+            <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1d69968d-d274-4615-9aec-b611433f2616"
+                    data-blockingmode="auto" type="text/javascript"></script>
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+            <script src="public/js/jquery.scrollTo.js"/>
+            <link href="https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css" rel="stylesheet">
+            <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css" rel="stylesheet">
+            <script src="https://use.fontawesome.com/5a61dfd9ab.js"></script>
+            <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+            <script src="https://cdn.tailwindcss.com"></script>
+            <link href="https://cdn.jsdelivr.net/npm/daisyui@2.8.0/dist/full.css" rel="stylesheet" type="text/css" />
+            <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+            <!-- Fonts -->
+            <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
