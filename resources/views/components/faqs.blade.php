@@ -10,21 +10,21 @@
 
         <details class="flex mb-4 max-w-3xl mx-auto details">
                 <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
-                    I am new to Crypto…how can I get involved?
+                {{ __('Faqs-1') }}
                 </summary>
 
                 <div class="info p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
-                    If you are all new to Crypto, the first step is to make yourself with some ETH (Etherium, the second largest Crypto currency) . The easiest is to exchange USD , EUR , or any FIAT currency via credit card or bank transfer at one of the major exchanges like Coinbase , Binance , Kraken , etc. Once you receive your ETH in your exchange account, we recommend to transfer the ETH to your own wallet . Since for further transactions a MetaMask wallet comes very handy, this would be our wallet of choice. After transferring the ETH to your MetaMask wallet , you are ready to go. Just click on “get Passport” to purchase your choice of Passport on OpenSea.
+                {{ __('Faqs-2-desc') }}
                 </div>
             </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto details">
                 <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight font-bold shadow-lg max-w-3xl mx-auto">
-                What are NFTs?
+                {{ __('Faqs-2') }}
             </summary>
 
             <div class=" info p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
-                NFT stands for “Non-fungible token” and is a unique, one-of-a-kind digital item that users can buy, own, and trade. Use cases are digital art, digital stamps, digital land, etc. Our NFTs are like a rare piece of art that can also act as a “timeshare membership” card which gets you access to the resort and community exclusives.
+                {{ __('Faqs-3-desc') }}
             </div>
         </details>
 
