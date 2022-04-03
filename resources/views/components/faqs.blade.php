@@ -30,21 +30,25 @@
 
         <details class="flex mb-4 max-w-3xl mx-auto">
                 <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
-                What if the NFTs are sold out?
+                {{ __('Faqs-3') }}
             </summary>
 
             <div class=" p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
-                In case our Passport NFTs have sold out, you can try to purchase one on a secondary market (Rarible, OpenSea, etc). Also, feel free to join the Discord and ask as well!
+                {{ __('Faqs-3-desc') }}
+                 (
+                 <a href="https://rarible.com/" class="hover:underline text-dao">Rarible</a>,
+                  <a href="https://opensea.io/" class="hover:underline text-dao">OpenSea</a>, etc).
+                 {{ __('Faqs-3-desc-1') }}
             </div>
         </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto">
                 <summary class="summary font-boldao cursor-pointer bg-white rounded-md py-2 px-4 shadow shadow-lg text-blackdao leading-tight shadow-lg max-w-3xl mx-auto">
-                What is a DAO?
+                {{ __('Faqs-4') }}
             </summary>
 
             <div class=" p-4 text-white font-lightdao leading-tight bg-darkblue mt-4 border-solid border-1 rounded-2xl shadow-lg max-w-3xl">
-                DAO stands for "Decentralized Autonomous Organization." Our concept allows decentralized decision making and community coordination. Passport holders will be able to make proposals, approvals and overview the execution of non-financial BocasDAO matters.            </div>
+                {{ __('Faqs-4-desc') }}
         </details>
 
         <details class="flex mb-4 max-w-3xl mx-auto">
