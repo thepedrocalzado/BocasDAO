@@ -5,7 +5,7 @@
     <div class="bg-lightgreen pt-10 static " id="passport">
         <div class="md:max-w-6xl md:mx-auto text-left justify-left ">
             <p class="text-white leading-tight font-boldao text-5xl mb-10 ml-4">
-                The Passport of your choice...
+                {{ __('Passport-title') }}
             </p>
         </div>
     </div>
@@ -42,7 +42,20 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most economic <span class="text-dao font-boldao">NFT</span> to enter the <span class="text-dao font-boldao">El Refugio Beach Bungalows</span>. This can be your once in a lifetime vacation, or your first step to form part in the <span class="text-dao font-boldao">BocasDAO</span>.            </p>
+                {{ __('Refugio-desc') }}
+                <span class="text-dao font-boldao">
+                {{ __('Refugio-desc1') }}
+                </span>
+                {{ __('Refugio-desc2') }}
+                 <span class="text-dao font-boldao">
+                 {{ __('Refugio-desc3') }}
+                 </span>
+                 {{ __('Refugio-desc4') }}
+                 <span class="text-dao font-boldao">
+                 {{ __('Refugio-desc5') }}
+                 </span>
+                 .
+            </p>
 
             <div class="flex justify-between items-center mt-[5.5rem]">
                 <div class="flex text-cyan space-x-2">
@@ -81,39 +94,39 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Accommodation right for 1 week (one-time)
+                                               {{ __('Refugio-modal-1') }}
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Discounts of future bookings
+                                               {{ __('Refugio-modal-2') }}
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        2 tickets to the “DAO Retreat Event”
+                                               {{ __('Refugio-modal-3') }}
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Lottery ticket to win a Carenero Passort NFT
+                                               {{ __('Refugio-modal-4') }}
                                     </li>
 
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Voting rights
+                                               {{ __('Refugio-modal-5') }}
                                     </li>
 
                                     <li class="flex items-center mb-3 text-lg ">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Access to our exclusive Discord Group
+                                               {{ __('Refugio-modal-6') }}
                                     </li>
 
 
@@ -159,9 +172,21 @@
 
             </h1>
 
-
             <p class="text-soft-blue font-lightdao text-base">
-                A great way to join the <span class="text-dao font-boldao">BocasDAO</span> and to enjoy your annually vacation between likeminded. Weather you are seeking to participate actively in the <span class="text-dao font-boldao">DAO</span>, or are securing your spot in the crypto getaway, <span class="text-dao font-boldao">Bocas del Toro</span> will cause a simile in your face.            </p>
+                {{ __('Carenero-desc') }}
+                <span class="text-dao font-boldao">
+                {{ __('Carenero-desc1') }}
+                </span>
+                 {{ __('Carenero-desc2') }}
+                 <span class="text-dao font-boldao">
+                 {{ __('Carenero-desc3') }}
+                 </span>
+                 {{ __('Carenero-desc4') }}
+                 <span class="text-dao font-boldao">
+                 {{ __('Carenero-desc5') }}
+                 </span>
+                  {{ __('Carenero-desc6') }}
+            </p>
 
             <div class="flex justify-between items-center mt-4">
                 <div class="flex text-cyan space-x-2">
@@ -200,31 +225,31 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Accommodation right for 1 week annually                                    </li>
+                                               {{ __('Carenero-modal-1') }}
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        2 tickets to the annual “DAO Retreat Event”
+                                               {{ __('Carenero-modal-2') }}
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Lottery Ticket to win Bocas Passport NFT
+                                               {{ __('Carenero-modal-3') }}
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Voting rights
+                                               {{ __('Carenero-modal-4') }}
                                     </li>
 
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Access to our exclusive Discord Group
+                                               {{ __('Carenero-modal-5') }}
                                     </li>
 
                                 </ul>
@@ -268,7 +293,11 @@
             </h1>
 
             <p class="text-soft-blue font-lightdao text-base">
-                Wanna spend some more time relaxing in the  <span class="text-dao font-boldao">Caribbean</span>. Two week annually and great community advatages will recharge your batteries. Great surfing, laid back atmosphere, and your crypto friends to party with.
+                   {{ __('Bocas-desc') }}
+                <span class="text-dao font-boldao">
+                {{ __('Bocas-desc1') }}
+                </span>
+                {{ __('Bocas-desc2') }}
             <div class="flex justify-between items-center  mt-[3.5rem]">
                 <div class="flex text-cyan space-x-2">
                     <img src="{{asset("/img/icons/eth.svg")}}" alt="ethereum icon" />
@@ -306,39 +335,39 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Accommodation right for 2 week annually
+                                                {{ __('Bocas-modal-1') }}
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        2 VIP tickets to the annual “DAO Retreat Event”
+                                                {{ __('Bocas-modal-2') }}
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        2 VIP tickets to the Grand Opening Party
+                                                {{ __('Bocas-modal-3') }}
                                     </li>
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Lottery ticket to win a Panama Passport NFT
+                                                {{ __('Bocas-modal-3') }}
                                     </li>
 
                                     <li class="flex items-center mb-3 text-lg">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Voting rights
+                                                {{ __('Bocas-modal-4') }}
                                     </li>
 
                                     <li class="flex items-center mb-3 text-lg ">
                                         <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                             /></svg>
-                                        Access to our exclusive Discord Group
+                                                {{ __('Bocas-modal-5') }}
                                     </li>
 
                                 </ul>
@@ -383,7 +412,11 @@
 
 
             <p class="text-soft-blue font-lightdao text-base">
-                Our most desired NFT includes the processing of a permanent residency in Panama for citizens of <a class=" text-dao hover:underline font-boldao uppercase" href="#paises-amigos" >Paises Amigos</a>, and in case you want to change your fiscal domicile to Panama, we include in this NFT the right of lodging for 180 days per year.
+                {{ __('Panama-desc') }}
+                <a class=" text-dao hover:underline font-boldao uppercase" href="#paises-amigos" >
+                {{ __('Panama-desc1') }}
+                </a>
+                {{ __('Panama-desc2') }}
             </p>
 
             <div class="flex justify-between items-center mt-4">
@@ -425,40 +458,39 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                         /></svg>
-                                    Granted accommodation right during the annual
-                                    “DAO Retreat Event”
+                                    {{ __('Panama-modal-1') }}
                                 </li>
                                 <li class="flex items-center mb-3 text-lg">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                         /></svg>
-                                    2 VIP tickets to the “DAO Retreat Event”
+                                    {{ __('Panama-modal-2') }}
                                 </li>
                                 <li class="flex items-center mb-3 text-lg">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                         /></svg>
-                                    Pre-Opening Invitation for 2 Pax
+                                    {{ __('Panama-modal-3') }}
                                 </li>
                                 <li class="flex items-center mb-3 text-lg">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                         /></svg>
-                                    2 VIP tickets to the Grand Opening Party
+                                    {{ __('Panama-modal-4') }}
                                 </li>
 
                                 <li class="flex items-center mb-3 text-lg">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                         /></svg>
-                                    Voting rights
+                                    {{ __('Panama-modal-5') }}
                                 </li>
 
                                 <li class="flex items-center mb-3 text-lg ">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="flex-none w-8 mr-2" viewBox="0 0 24 24" fill="green">
                                         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
                                         /></svg>
-                                    Access to our exclusive Discord Group
+                                    {{ __('Panama-modal-6') }}
                                 </li>
 
 
