@@ -262,37 +262,37 @@
             <div class="rounded-3xl	shadow-xl shadow-cyan-500/50 ">
                 <time class="font-boldao uppercase">
                     <p class="text-3xl">
-                        Prior to 2022
+                        {{ __('Roadmap-title1') }}
                     </p>
                 </time>
-                <p class="font-boldao">Selection of the island property </p>
-                <p class="font-boldao">Permits from Panamanian Tourism Ministry</p>
-                <p class="font-boldao">Environmental Impact study for construction on land and over water approved</p>
+                <p class="font-boldao">{{ __('Roadmap-list1') }}</p>
+                <p class="font-boldao">{{ __('Roadmap-list2') }}</p>
+                <p class="font-boldao">{{ __('Roadmap-list3') }}</p>
             </div>
         </li>
         <li>
             <div class="rounded-3xl shadow-xl shadow-cyan-500/50	">
                 <time class="font-boldao uppercase">
                     <p class="text-3xl">
-                        Early 2022
+                        {{ __('Roadmap-title2') }}
                     </p>
                 </time>
-                    <p class="font-boldao">NFT sale</p>
-                    <p class="font-boldao">Legal framework</p>
-                    <p class="font-boldao">Over water concession</p>
-                    <p class="font-boldao">Local building permit</p>
-                    <p class="font-boldao">Contract with Architects</p>
-                    <p class="font-boldao">Choosing Construction Company</p>
+                    <p class="font-boldao">{{ __('Roadmap-list21') }}</p>
+                    <p class="font-boldao">{{ __('Roadmap-list22') }}</p>
+                    <p class="font-boldao">{{ __('Roadmap-list23') }}</p>
+                    <p class="font-boldao">{{ __('Roadmap-list24') }}</p>
+                    <p class="font-boldao">{{ __('Roadmap-list25') }}</p>
+                    <p class="font-boldao">{{ __('Roadmap-list26') }}</p>
             </div>
         </li>
         <li>
             <div class="rounded-3xl	shadow-xl shadow-cyan-500/50">
                 <time class="font-boldao uppercase">
                     <p class="text-3xl">
-                        Mid - late 2022
+                        {{ __('Roadmap-title3') }}
                     </p>
                 </time>
-                <p class="font-boldao">Start of Construction</p>
+                <p class="font-boldao">{{ __('Roadmap-list31') }}</p>
             </div>
         </li>
 
@@ -300,10 +300,10 @@
             <div class="rounded-3xl shadow-xl shadow-cyan-500/50	">
                 <time class="font-boldao uppercase">
                     <p class="text-3xl">
-                        Late 2023
+                        {{ __('Roadmap-title4') }}
                     </p>
                 </time>
-                <p class="font-boldao">Grand Opening</p>
+                <p class="font-boldao">{{ __('Roadmap-list41') }}</p>
             </div>
         </li>
 

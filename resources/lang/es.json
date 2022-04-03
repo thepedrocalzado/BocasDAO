@@ -24,7 +24,6 @@
     "Sale": " La fecha de inicio de la venta de NFT se anunciará el ",
 
 
-
     "# PASSPORT #":"",
     "Passport-title":"El Pasaporte que desees...",
     "Passport-refugio":"Pasaporte Refugio",
@@ -35,9 +34,54 @@
     "Buy":"En breve",
     "Units":"Unidades",
 
+    "# PASSPORT REFUGIO #":"",
+    "Refugio-desc":"Our most economic ",
+    "Refugio-desc1":"NFT ",
+    "Refugio-desc2":"to enter the ",
+    "Refugio-desc3":"El Refugio Beach Bungalows",
+    "Refugio-desc4":". This can be your once in a lifetime vacation, or your first step to form part in the ",
+    "Refugio-desc5":"BocasDAO ",
+
+    "# PASSPORT CARENERO #":"",
+    "Carenero-desc":"A great way to join the ",
+    "Carenero-desc1":"BocasDAO ",
+    "Carenero-desc2":"and to enjoy your annually vacation between likeminded. Weather you are seeking to participate actively in the ",
+    "Carenero-desc3":"DAO",
+    "Carenero-desc4":", or are securing your spot in the crypto getaway, ",
+    "Carenero-desc5":"Bocas del Toro ",
+    "Carenero-desc6":"will cause a simile in your face.",
+
+    "# PASSPORT BOCAS #":"",
+    "Bocas-desc":"Wanna spend some more time relaxing in the ",
+    "Bocas-desc1":"Caribbean ",
+    "Bocas-desc2":". Two week annually and great community advatages will recharge your batteries. Great surfing, laid back atmosphere, and your crypto friends to party with. ",
+
+    "# PASSPORT PANAMA #":"",
+    "Panama-desc":"Our most desired NFT includes the processing of a permanent residency in Panama for citizens of ",
+    "Panama-desc1":"PAISES AMIGO",
+    "Panama-desc2":", and in case you want to change your fiscal domicile to Panama, we include in this NFT the right of lodging for 180 days per year. ",
 
 
 
+
+
+
+    "# ROADMAP #":"",
+    "Roadmap-title1": "ANTES DE 2022",
+    "Roadmap-list1": "Selección de la propiedad isleña",
+    "Roadmap-list2": "Permisos del Ministerio de Turismo de Panamá",
+    "Roadmap-list3": "Aprobado estudio de Impacto Ambiental para construcción en tierra y sobre agua",
+    "Roadmap-title2": "PRINCIPIOS DE 2022",
+    "Roadmap-list21": "Venta de NFT",
+    "Roadmap-list22": "Marco legal",
+    "Roadmap-list23": "Sobre concesión de agua",
+    "Roadmap-list24": "Permiso local de construcción",
+    "Roadmap-list25": "Contrato con Arquitectos",
+    "Roadmap-list26": "Elección de la empresa constructora",
+    "Roadmap-title3": "MEDIADOS - FINALES DE 2022",
+    "Roadmap-list31": "Inicio de Construcción",
+    "Roadmap-title4": "FINALES DE 2023",
+    "Roadmap-list41": "Gran inauguración",
 
 
 
