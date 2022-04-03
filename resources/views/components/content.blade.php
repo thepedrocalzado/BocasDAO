@@ -4,7 +4,7 @@
             <div class="md:max-w-6xl md:mx-auto">
                 <div class="md:max-w-6xl lg:text-right  md:text-center sm:text-center  ">
                     <p class="text-dao leading-tight font-boldao lg:text-6xl text-5xl  mb-7">
-                        The NFT that opens doors...
+                        {{ __('Doors') }}
                     </p>
                 </div>
                 <div class="md:flex md:flex-wrap">
