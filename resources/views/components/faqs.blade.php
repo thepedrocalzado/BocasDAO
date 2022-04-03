@@ -3,9 +3,7 @@
 <div class=" faqs flex flex-wrap md:max-w-6xl md:mx-auto sm:mb-2 -mx-2 pb-10 " id="paises-amigos" >
     <div class="w-full px-4 py-2">
         <p class="text-white leading-tight font-boldao text-5xl mb-10 ml-4 pt-10 pb-10">
-            Frequently Asked Questions
-
-
+            {{ __('Faqs-title') }}
         </p>
 
         <details class="flex mb-4 max-w-3xl mx-auto details">
