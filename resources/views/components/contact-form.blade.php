@@ -4532,22 +4532,22 @@
     <form method="POST" action="contact.submit">
 
         <div>
-            <label class="uppercase text-sm text-gray-600 font-boldao" for="name">{ __('Email-fullname') }}</label>
+            <label class="uppercase text-sm text-gray-600 font-boldao" for="name">{{ __('Email-fullname') }}</label>
             <input class="w-full bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
                    type="text" name="name" id="name" required>
         </div>
         <div class="mt-8">
-            <label class="uppercase text-sm text-gray-600 font-boldao" for="email">{ __('Email-mail') }}</label>
+            <label class="uppercase text-sm text-gray-600 font-boldao" for="email">{{ __('Email-mail') }}</label>
             <input class="w-full bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
                    type="text" name="email" id="email" required>
         </div>
         <div class="mt-8">
-            <label class="uppercase text-sm text-gray-600 font-boldao" for="message">{ __('Email-messafe') }}</label>
+            <label class="uppercase text-sm text-gray-600 font-boldao" for="message">{{ __('Email-message') }}</label>
             <textarea class="w-full h-32 bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" id="message" name="message"> </textarea>
         </div>
 
         <div class="mt-8">
-            <button class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao uppercase text-white bg-[#1cd1b2] rounded-lg" type="submit" name="submit">{ __('Send') }}</button>
+            <button class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao uppercase text-white bg-[#1cd1b2] rounded-lg" type="submit" name="submit">{{ __('Send') }}</button>
         </div>
 
     </form>
