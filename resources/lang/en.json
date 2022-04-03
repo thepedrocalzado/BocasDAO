@@ -101,7 +101,12 @@
 
 
 
-
+    "# EMAIL #":"",
+    "Email-title": "Interested...? Let's discuss!",
+    "Email-fullname": "Full name",
+    "Email-mail": "Email",
+    "Email-message": "Message",
+    "Send": "Send message",
 
     "# COUNTDOWN #":"",
     "Start": "NFT sale start in",

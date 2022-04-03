@@ -35,12 +35,7 @@
     "Buy":"En breve",
     "Units":"Unidades",
 
-    "# COUNTDOWN #":"",
-    "Start": "La venta NFT comienza en",
-    "Days": "Días",
-    "Hours": "Horas",
-    "Minutes": "Minutos",
-    "Seconds": "Segundos",
+
 
 
 
@@ -66,6 +61,20 @@
     "Faqs-6-desc":"Los \"Países Amigos\" son un grupo de países que incluyen:",
     "Faqs-6-desc-1":"Andorra, Argentina, Australia, Austria, Belgium, Brazil, Canada, Chile, Costa Rica, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Great Britain, Greece, Hong Kong, Hungary, Ireland, Israel, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Monaco, Montenegro, Netherlands, New Zealand, Norway, Paraguay, Poland, Portugal Republic of Korea, San Marino, Serbia, Singapore, Slovakia, South Africa, Spain, Sweden, Switzerland, Taiwan, Uruguay, USA.",
 
+
+    "# EMAIL #":"",
+    "Email-title": "Interesado...? ¡Vamos a conversar!",
+    "Email-fullname": "Nombre y apellido",
+    "Email-mail": "Correo electrónico",
+    "Email-message": "Mensaje",
+    "Send": "Enviar mensaje",
+
+    "# COUNTDOWN #":"",
+    "Start": "La venta NFT comienza en",
+    "Days": "Días",
+    "Hours": "Horas",
+    "Minutes": "Minutos",
+    "Seconds": "Segundos",
 
 
     "# FOOTER #":"",

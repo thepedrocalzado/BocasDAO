@@ -4,7 +4,7 @@
 <div class="max-w-screen-xl mt-24 px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto bg-gray-100 text-gray-900 rounded-lg shadow-lg">
     <div class="flex flex-col justify-between">
         <div>
-            <h2 class="text-4xl lg:text-5xl font-boldao leading-tight text-black">Interested…? Let’s discuss!</h2>
+            <h2 class="text-4xl lg:text-5xl font-boldao leading-tight text-black">{ __('Email-title') }}</h2>
         </div>
         <div class="mt-8 text-center">
             <style>
@@ -4532,22 +4532,22 @@
     <form method="POST" action="contact.submit">
 
         <div>
-            <label class="uppercase text-sm text-gray-600 font-boldao" for="name">Full Name</label>
+            <label class="uppercase text-sm text-gray-600 font-boldao" for="name">{ __('Email-fullname') }}</label>
             <input class="w-full bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
                    type="text" name="name" id="name" required>
         </div>
         <div class="mt-8">
-            <label class="uppercase text-sm text-gray-600 font-boldao" for="email">Email</label>
+            <label class="uppercase text-sm text-gray-600 font-boldao" for="email">{ __('Email-mail') }}</label>
             <input class="w-full bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
                    type="text" name="email" id="email" required>
         </div>
         <div class="mt-8">
-            <label class="uppercase text-sm text-gray-600 font-boldao" for="message">Message</label>
+            <label class="uppercase text-sm text-gray-600 font-boldao" for="message">{ __('Email-messafe') }}</label>
             <textarea class="w-full h-32 bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" id="message" name="message"> </textarea>
         </div>
 
         <div class="mt-8">
-            <button class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao uppercase text-white bg-[#1cd1b2] rounded-lg" type="submit" name="submit">Send message</button>
+            <button class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao uppercase text-white bg-[#1cd1b2] rounded-lg" type="submit" name="submit">{ __('Send') }}</button>
         </div>
 
     </form>
