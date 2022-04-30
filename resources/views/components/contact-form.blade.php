@@ -2,10 +2,16 @@
 
 <div class="md:max-w-6xl md:mx-auto pt-10 pb-10" id="contact">
 <div class="max-w-screen-xl mt-24 px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto bg-gray-100 text-gray-900 rounded-lg shadow-lg">
+    <h2 class="hover:underline text-2xl lg:text-5xl font-boldao leading-tight text-black mx-auto text-center">
+        <a href=mailto:contact@bocasdao.finance>contact@bocasdao.finance</a>
+    </h2><!--
     <div class="flex flex-col justify-between">
         <div>
+
             <h2 class="text-4xl lg:text-5xl font-boldao leading-tight text-black">{{ __('Email-title') }}</h2>
         </div>
+        -->
+        <!--
         <div class="mt-8 text-center">
             <style>
 
@@ -4548,7 +4554,7 @@
 
         <div class="mt-8">
             <button class="visible xs:invisible  px-4 py-2 mt-2 ml-5 mr-5 text-sm font-boldao uppercase text-white bg-[#1cd1b2] rounded-lg" type="submit" name="submit">{{ __('Send') }}</button>
-        </div>
+        </div> -->
 
     </form>
 </div>

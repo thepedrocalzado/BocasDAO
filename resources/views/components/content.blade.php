@@ -34,7 +34,7 @@
                                     {{ __('Sale') }}
                                 </p>
                                 <p class="text-dao font-boldao text-3xl mt-4">
-                                    01.05.2022
+                                    21.06.2022
                                 </p>
                             </p>
                         </div>

@@ -1,23 +1,25 @@
 {
-    "Passport": "Pasaporte",
-    "Road Map": "Pasaporte",
-    "Join the community": "Únete a la comunidad",
+    "Passport": "Reisepass",
+    "Road Map": "Road Map",
+    "Join the community": "Gemeinschaft",
     "Faqs": "Faqs",
-    "Contact": "Contacto",
-    "Get your passport": "Consigue su pasaporte",
+    "Contact": "Kontakt",
+    "Get your passport": "Reisepass",
     "Present": "BocasDAO präsentiert:",
     "Presentinfo": "Die \"El Refugio Beach Bungalows, Bocas del Toro\" - ein \"go to place\" für die Krypto-Community, Dein Home-Office über Wasser, Ihr neues dauerhaftes Domiziel, die DAO, der Sie angehören möchten.",
     "Refugee": "- Seien Sie ein Krypto-Flüchtling",
-    "Showpassport": "Show Passport",
+    "Showpassport": "siehe Pässe",
     "Identity": "Du identifizierst dich mit",
     "Beach": " #Strandleben ",
-    "Life": "life",
-    "Sunshine": " #Sunshine ",
-    "Caribbean": " #Caribbean ",
-    "Vibes": "vibes, and are crazy about cryptos?  Become part of the BocasDAO and participate in creating a a stunning Crypto Getaway, no need for",
+    "Life": "",
+    "Sunshine": " #Sonnenschein ",
+    "Caribbean": " #Karibik ",
+    "Vibes": "Vibes und sind verrückt nach Kryptos?  Werden Sie Teil der BocasDAO und beteiligen Sie sich an der Gestaltung eines atemberaubenden Crypto Getaways, ohne dass Sie",
     "Fiat": " FIAT ;) ",
-    "Passportinfo": "We have created  four types of NFT “Passports” for you to form part of the BocasDAO. The different types of “Passports” grant access to the future resort, voting rights & community advantages.",
-    "Sale": "Der Starttermin fir den NFT-Verkauf wird am ",
+    "Passportinfo": "Wir haben vier Arten von NFT-\"Pässen\" für Sie erstellt, mit denen Sie Teil der BocasDAO werden können. Die verschiedenen Arten von \"Pässen\" gewähren Zugang zum zukünftigen Resort, Stimmrecht und Gemeinschaftsvorteile.",
+    "Sale": "Der NFT Verkauf begimnt am  ",
+    "Doors": "Das NFT, das Türen öffnet...",
+
 
 
     "# PASSPORT #":"",
@@ -30,15 +32,124 @@
     "Buy":"Kommt bald",
     "Units":"Einheiten",
 
+    "# PASSPORT REFUGIO #":"",
+    "Refugio-desc":"Unser wirtschaftlichstes ",
+    "Refugio-desc1":"NFT ",
+    "Refugio-desc2":"zur Eingabe ",
+    "Refugio-desc3":"El Refugio Beach Bungalows",
+    "Refugio-desc4":". Dies könnte Ihr einmaliger Urlaub sein oder Ihr erster Schritt auf dem Weg zu einem Teil der ",
+    "Refugio-desc5":"BocasDAO ",
+    "Refugio-modal-1": "Anspruch auf eine Unterkunft für 1 Woche (nur einmalig)",
+    "Refugio-modal-2": "Rabatte auf zukünftige Buchungen",
+    "Refugio-modal-3": "2 Eintrittskarten für das \"DAO Retreat Event",
+    "Refugio-modal-4": "Lotterielos zum Gewinn eines Carenero Passort NFT",
+    "Refugio-modal-5": "Wahlrecht",
+    "Refugio-modal-6": "Zugang zu unserer exklusiven Discord-Gruppe",
+
+    "# PASSPORT CARENERO #":"",
+    "Carenero-desc":"Eine großartige Möglichkeit zum Einstieg ",
+    "Carenero-desc1":"BocasDAO ",
+    "Carenero-desc2":"und genießen Sie Ihren Jahresurlaub unter Gleichgesinnten. Wenn Sie sich aktiv an der  ",
+    "Carenero-desc3":"DAO",
+    "Carenero-desc4":", oder es sichert sich seinen Platz im kryptografischen Ausbruch, ",
+    "Carenero-desc5":"Bocas del Toro ",
+    "Carenero-desc6":"Das wird Ihnen ein Lächeln ins Gesicht zaubern.",
+    "Carenero-modal-1": "Anspruch auf Unterkunft für 1 Woche pro Jahr",
+    "Carenero-modal-2": "2 Eintrittskarten für das jährliche \"DAO Retreat Event\".",
+    "Carenero-modal-3": "Lotterielos zum Gewinn des NFT Bocas-Passes",
+    "Carenero-modal-4": "Wahlrecht",
+    "Carenero-modal-5": "Treten Sie unserer exklusiven Discord-Gruppe bei",
+
+    "# PASSPORT BOCAS #":"",
+    "Bocas-desc":"Möchten Sie mehr Zeit mit der Entspannung im ",
+    "Bocas-desc1":"Karibik ",
+    "Bocas-desc2":". Zwei Wochen im Jahr und großartige Gemeinschaftsleistungen werden Ihre Batterien wieder aufladen. Tolles Surfen, entspannte Atmosphäre und deine Krypto-Freunde zum Spaß. ",
+    "Bocas-modal-2": "2 VIP-Tickets für die jährliche DAO-Klausurtagung",
+    "Bocas-modal-3": "2 VIP-Tickets für die große Eröffnungsparty",
+    "Bocas-modal-4": "Lotterielos zum Gewinn eines NFT-Passes für Panama",
+    "Bocas-modal-5": "Wahlrecht",
+    "Bocas-modal-6": "Treten Sie unserer exklusiven Discord-Gruppe bei",
+
+
+    "# PASSPORT PANAMA #":"",
+    "Panama-desc":"Unser meistgefragter NFT umfasst die Bearbeitung einer Daueraufenthaltsgenehmigung in Panama für Bürger aus ",
+    "Panama-desc1":"BEFREUNDETE LÄNDER",
+    "Panama-desc2":",  Für den Fall, dass Sie Ihren steuerlichen Wohnsitz nach Panama verlegen möchten, ist in diesem NFT das Recht auf Unterkunft für 180 Tage pro Jahr enthalten. ",
+    "Panama-modal-1": "Unterbringung während des jährlichen \"DAO Retreat Event\".",
+    "Panama-modal-2": "2 VIP-Tickets für das \"DAO Retreat Event\".",
+    "Panama-modal-3": "Pre-Opening Einladung für 2 Pax",
+    "Panama-modal-4": "2 VIP-Tickets für die große Eröffnungsparty",
+    "Panama-modal-5": "Wahlrecht",
+    "Panama-modal-6": "Treten Sie unserer exklusiven Discord-Gruppe bei",
 
 
 
+    "# ROADMAP #":"",
+    "Roadmap-title1": "BEVOR 2022",
+    "Roadmap-list1": "Auswahl der Inselliegenschaften",
+    "Roadmap-list2": "Genehmigungen des panamaischen Ministeriums für Tourismus",
+    "Roadmap-list3": "Umweltverträglichkeitsprüfung für Bauvorhaben an Land und auf dem Wasser genehmigt",
+    "Roadmap-title2": "FRÜH 2022",
+    "Roadmap-list21": "Verkauf von NFT",
+    "Roadmap-list22": "Rechtlicher Rahmen",
+    "Roadmap-list23": "Über die Wasserkonzession",
+    "Roadmap-list24": "Lokale Baugenehmigung",
+    "Roadmap-list25": "Vertrag mit Architekten",
+    "Roadmap-list26": "Wahl der Baufirma",
+    "Roadmap-title3": "MITTE - ENDE 2022",
+    "Roadmap-list31": "Baubeginn",
+    "Roadmap-title4": "ENDE 2023",
+    "Roadmap-list41": "Feierliche Eröffnung",
+
+
+
+
+    "# FAQS #":"",
+    "Faqs-title":"Häufig gestellte Fragen",
+    "Faqs-1":"Ich bin neu im Bereich Krypto... Wie kann ich mich engagieren?",
+    "Faqs-1-desc":"Wenn Sie neu in der Kryptowelt sind, ist der erste Schritt, etwas ETH (Etherium, die zweitgrößte Kryptowährung) in die Hände zu bekommen. Am einfachsten ist der Umtausch von USD, EUR oder einer anderen FIAT-Währung per Kreditkarte oder Banküberweisung auf einer der großen Börsen wie Coinbase, Binance, Kraken usw. Sobald Sie Ihre ETH auf Ihrem Börsenkonto erhalten haben, empfehlen wir Ihnen, die ETH auf Ihr eigenes Wallet zu übertragen. Da für andere Transaktionen eine MetaMask-Brieftasche sehr nützlich ist, wäre dies die von uns bevorzugte Brieftasche. Nachdem Sie die ETH auf Ihr MetaMask Wallet übertragen haben, können Sie loslegen. Klicken Sie einfach auf \"Pass holen\", um einen Pass Ihrer Wahl auf OpenSea zu kaufen.\n\nÜbersetzt mit www.DeepL.com/Translator (kostenlose Version)",
+    "Faqs-2":"Was sind NFTs?",
+    "Faqs-2-desc":"NFT steht für \"non-fungible token\" und ist ein einzigartiger digitaler Gegenstand, den Nutzer kaufen, besitzen und tauschen können. Anwendungsfälle sind digitale Kunst, digitale Briefmarken, digitales Land usw. Unsere NFTs sind wie ein seltenes Kunstwerk, das auch als \"Timeshare-Mitgliedskarte\" fungieren kann, die Ihnen Zugang zu exklusiven Leistungen des Resorts und der Gemeinschaft gewährt.",
+    "Faqs-3":"Was passiert, wenn NFTs nicht mehr vorrätig sind?",
+    "Faqs-3-desc":"Falls Ihr NFT Passport ausverkauft ist, können Sie versuchen, einen auf dem Sekundärmarkt zu kaufen.",
+    "Faqs-3-desc-1":" Ihr könnt auch gerne Discord beitreten und Fragen stellen\".",
+    "Faqs-4":"Was ist eine DAO?",
+    "Faqs-4-desc":"DAO steht für \"Dezentralisierte Autonome Organisation\". Unser Konzept ermöglicht eine dezentrale Entscheidungsfindung und gemeinschaftliche Koordination. Die Passinhaber werden in der Lage sein, Vorschläge zu unterbreiten, Genehmigungen zu erteilen und die Umsetzung von nicht-finanziellen Angelegenheiten der BocasDAO zu überprüfen.",
+    "Faqs-5":"Warum Bocas del Toro?",
+    "Faqs-5-desc":"Bocas del Toro besteht aus neun Hauptinseln und mehr als 200 Buchten. Die Inseln sind berühmt für ihre Strände, Buchten, die Tierwelt und die entspannte Lebensweise ihrer Bewohner. Die Provinz hat eine Gesamtbevölkerung von etwa 126.000 Menschen. Bocas del Toro grenzt im Norden an das Karibische Meer und hat eine gemeinsame Grenze mit Costa Rica. Bocas del Toro ist seit vielen Jahren ein beliebtes Strandziel für die Panamaer. Darüber hinaus besuchen in letzter Zeit auch viele Touristen aus Europa und Amerika dieses schöne Refugium. Bocas hat in den letzten Jahren hohe Wachstumsraten verzeichnet und wird voraussichtlich das wichtigste Touristenziel außerhalb von Panama City werden.\n\nÜbersetzt mit www.DeepL.com/Translator (kostenlose Version)",
+    "Faqs-5-desc-1":"Bocas del Toro wird im Tourismusentwicklungsplan des Landes als eine der wichtigsten Prioritäten eingestuft.",
+    "Faqs-5-desc-2":"Bocas del Toro ist mit dem Flugzeug von Panama City und San Jose, Costa Rica, aus zu erreichen. Fähr- und Busverbindungen sind ebenfalls vorhanden..",
+    "Faqs-6":"Welche Länder gelten als \"befreundete Länder\"?\n",
+    "Faqs-6-desc":"Die \"befreundeten Länder\" sind eine Gruppe von Ländern, zu denen folgende gehören:",
+    "Faqs-6-desc-1":"Andorra, Argentina, Australia, Austria, Belgium, Brazil, Canada, Chile, Costa Rica, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Great Britain, Greece, Hong Kong, Hungary, Ireland, Israel, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Monaco, Montenegro, Netherlands, New Zealand, Norway, Paraguay, Poland, Portugal Republic of Korea, San Marino, Serbia, Singapore, Slovakia, South Africa, Spain, Sweden, Switzerland, Taiwan, Uruguay, USA.",
+
+
+    "# EMAIL #":"",
+    "Email-title": "Interesado...? ¡Vamos a conversar!",
+    "Email-fullname": "Nombre y apellido",
+    "Email-mail": "Correo electrónico",
+    "Email-message": "Mensaje",
+    "Send": "Enviar mensaje",
 
     "# COUNTDOWN #":"",
     "Start": "NFT-Verkaufsstart in",
     "Days": "Tage",
     "Hours": "Std",
     "Minutes": "Minute",
-    "Seconds": "Sekunden"
+    "Seconds": "Sekunden",
+
+
+    "# FOOTER #":"",
+    "Resources": "Ressourcen",
+    "Follow": "Folgen Sie uns auf",
+    "Legal": "legal",
+    "Terms": "Bedingungen und Konditionen",
+    "copy": "Alle Rechte vorbehalten."
 }
+
+
+
+
+
+
 
